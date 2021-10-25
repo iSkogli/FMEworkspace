@@ -1,0 +1,1063 @@
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME 2021.1.3.0 (20211002 - Build 21631 - WIN64)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2021_3\'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Desktop ESRI Edition (floating)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Permanent License.
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Machine host name is: svv-71193
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Locale: nb_NO
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|System Encoding: windows-1252
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GitHub\iSkogli\FMEworkspace\NVDB_3D_demo/'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'NVDB_3D_demo.fmw'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2021.1.3.0'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 18363)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Platform: WIN64
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|System Status: 190.98 GB of disk space available in the FME temporary folder (C:\Users\ingsko\AppData\Local\Temp\wbrun_1635164825560_4936\fmetmp_10)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|System Status: 63.76 GB of physical memory available
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|System Status: 255.06 GB of virtual memory available
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|START - ProcessID: 13968, peak process memory usage: 53592 kB, current process memory usage: 49128 kB
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2021_3\fme.exe' `C:/DATA/GitHub/iSkogli/FMEworkspace/NVDB_3D_demo\wb-xlate-1635169122334_4936' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{e7c0f496-aa33-45f0-bc71-fdbd002f1304}'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\ingsko\AppData\Roaming\Safe Software\FME\'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME2021_3\datasources;C:\Users\ingsko\Documents\FME\Formats
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\ingsko\AppData\Roaming\Safe Software\FME\Packages\21631-win64\transformers;C:\Program Files\FME2021_3\transformers;C:\Users\ingsko\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\ingsko\Documents\FME\CoordinateSystems
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\ingsko\Documents\FME\CoordinateSystemExceptions
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\ingsko\Documents\FME\CoordinateSystemGridOverrides
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\ingsko\Documents\FME\CsmapTransformationExceptions
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\ingsko\Documents\FME\TransformerCategories
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `NULL_DEST'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `NULL_DEST_DEF'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Writer type is `NULL'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GitHub\iSkogli\FMEworkspace\NVDB_3D_demo'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\ingsko\AppData\Local\Temp\wbrun_1635164825560_4936\fmetmp_10', set from environment variable `FME_TEMP'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\ingsko\AppData\Local\Temp'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2021_3\'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 191.29 GB
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 143.47 GB
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Creating writer for format: NULL (Nothing)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `NULL'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Loaded module 'NULL' from file 'C:\Program Files\FME2021_3\plugins/NULL.dll'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Creating reader for format: 
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2021_3\plugins/Geometry_func.dll'
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.0|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME2021_3\plugins/LogCount_func.dll'
+2021-10-25 15:38:46|   0.1|  0.1|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME2021_3\plugins/QueryFactory.dll'
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|Loaded module 'OGCGeometry_func' from file 'C:\Program Files\FME2021_3\plugins/OGCGeometry_func.dll'
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|FME API version of module 'OGCGeometry_func' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME2021_3\plugins/PythonFactory.dll'
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|Using Python interpreter from `C:\Program Files\FME2021_3\fmepython38\python38.dll' with PYTHONHOME `C:\Program Files\FME2021_3\fmepython38'
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|Python version 3.8 loaded successfully
+2021-10-25 15:38:46|   0.1|  0.0|INFORM|Adding folder `C:\DATA\GitHub\iSkogli\FMEworkspace\NVDB_3D_demo\' to the python path
+2021-10-25 15:38:46|   0.2|  0.1|INFORM|... Last line repeated 4 times ...
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME2021_3\plugins/HTTPFactory.dll'
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|Loaded module 'XFMapFactory' from file 'C:\Program Files\FME2021_3\plugins/XFMapFactory.dll'
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.2|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.3|  0.1|INFORM|Loaded module 'InspectorFactory' from file 'C:\Program Files\FME2021_3\plugins/InspectorFactory.dll'
+2021-10-25 15:38:46|   0.3|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.1|INFORM|Loaded module 'TransformPointCloud_func' from file 'C:\Program Files\FME2021_3\plugins/TransformPointCloud_func.dll'
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'TransformPointCloud_func' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|Loaded module 'RasterClippingFactory' from file 'C:\Program Files\FME2021_3\plugins/RasterClippingFactory.dll'
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|Loaded module 'SolidIntersectionFactory' from file 'C:\Program Files\FME2021_3\plugins/SolidIntersectionFactory.dll'
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-10-25 15:38:46|   0.4|  0.0|INFORM|Emptying factory pipeline
+2021-10-25 15:38:46|   0.5|  0.1|INFORM|Potentially retrieving dataset 'https://www.norgeskart.no/ws/get-json.py?hash=Oc6JcHkB1BVmjWzlBFjs&save=true' for reader R_1
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Retrieved file C:\Users\ingsko\AppData\Local\Temp\wbrun_1635164825560_4936\fmetmp_10\TempFS_1635169126838_13968\get-json.py for reader R_1
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Loaded module 'GEOJSON' from file 'C:\Program Files\FME2021_3\plugins/JSON.dll'
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|FME API version of module 'GEOJSON' matches current internal version (3.8 20210302)
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Performing query against GEOJSON dataset `https://www.norgeskart.no/ws/get-json.py?hash=Oc6JcHkB1BVmjWzlBFjs&save=true'
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Potentially retrieving dataset 'https://www.norgeskart.no/ws/get-json.py?hash=Oc6JcHkB1BVmjWzlBFjs&save=true' for reader R_2
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Retrieved file C:\Users\ingsko\AppData\Local\Temp\wbrun_1635164825560_4936\fmetmp_10\TempFS_1635169126838_13968\get-json.py for reader R_2
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|FME API version of module 'GEOJSON' matches current internal version (3.8 20210302)
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Opening the GEOJSON reader with source dataset 'C:\Users\ingsko\AppData\Local\Temp\wbrun_1635164825560_4936\fmetmp_10\TempFS_1635169126838_13968\get-json.py'
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_2[GEOJSON] set to `LL84' as read from input data
+2021-10-25 15:38:47|   0.5|  0.0|INFORM|Coordinate System `LL84' parameters: CS_NAME=`LL84' DESC_NM=`WGS84 datum, Latitude-Longitude; Degrees' DT_NAME=`WGS84' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`182' MIN_LAT=`-90' MIN_LNG=`-182' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-10-25 15:38:47|   0.5|  0.0|WARN  |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Reprojector: Ignoring source coordinate system 'EPSG:4326' in favor of feature coordinate system. This warning will not be repeated
+2021-10-25 15:38:48|   0.8|  0.3|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'LL84' -> 'EPSG:25833', and is not guaranteed to remain the same in future releases of FME
+2021-10-25 15:38:48|   0.9|  0.1|INFORM|Reprojector: Using transformation `ETRS89/01_to_WGS84,Inverse(Geocentric)' when reprojecting from LL84 to EPSG:25833
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesFilterGeometriInn_CoordinateExtractor_Output: Feature is:
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Feature Type: `NVDBAPI_les_NVDBAPIlesFilterGeometriInn_CoordinateExtractor_Output_LOGGED'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: windows-1252)           : `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: UTF-8)                  : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: windows-1252)           : `fme_feature_type' has value `get-json'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: windows-1252)           : `fme_geometry' has value `fme_polygon'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(entangled: string: windows-1252): `fme_type' has value `fme_area'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|          entangled to json_type
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: UTF-8)                  : `id' has value `39e73c84-8b33-0e17-33fb-358420479e50'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: UTF-8)                  : `json_type' has value `json_polygon'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: UTF-8)                  : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: UTF-8)                  : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(string: UTF-8)                  : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Attribute(64 bit integer)                 : `style.stroke.width' has value `2'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Geometry Type: IFMEPolygon
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|Boundary:
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|   Geometry Type: IFMELine
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|   Number of Coordinates: 5 -- Coordinate Dimension: 2
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|   (255202.99398674036,6785360.229256956)(255304.71983620359,6785321.379184817)(255262.1210665832,6785280.313975792)(255190.0439660617,6785338.589086508)(255202.99398674036,6785360.229256956)
+2021-10-25 15:38:48|   0.9|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:48|   1.1|  0.2|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [1]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'
+2021-10-25 15:38:48|   1.2|  0.1|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [1]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 51306 bytes, DNS lookup time: 1 ms, total transfer time: 341 ms
+2021-10-25 15:38:48|   1.3|  0.1|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [2]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'. Expected transfer size: 736 bytes
+2021-10-25 15:38:48|   1.3|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [2]: HTTP Download: received 736 bytes
+2021-10-25 15:38:48|   1.3|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [2]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 736 bytes, DNS lookup time: 0 ms, total transfer time: 54 ms
+2021-10-25 15:38:49|   1.7|  0.4|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [3]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'. Expected transfer size: 4391 bytes
+2021-10-25 15:38:49|   1.7|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [3]: HTTP Download: received 4391 bytes
+2021-10-25 15:38:49|   1.7|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [3]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 4391 bytes, DNS lookup time: 0 ms, total transfer time: 99 ms
+2021-10-25 15:38:49|   1.8|  0.1|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [4]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'. Expected transfer size: 735 bytes
+2021-10-25 15:38:49|   1.8|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [4]: HTTP Download: received 735 bytes
+2021-10-25 15:38:49|   1.8|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [4]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 735 bytes, DNS lookup time: 0 ms, total transfer time: 49 ms
+2021-10-25 15:38:51|   1.9|  0.1|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [5]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'
+2021-10-25 15:38:52|   3.2|  1.3|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [5]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 38780 bytes, DNS lookup time: 0 ms, total transfer time: 1326 ms
+2021-10-25 15:38:52|   3.3|  0.1|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [6]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'. Expected transfer size: 736 bytes
+2021-10-25 15:38:52|   3.3|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [6]: HTTP Download: received 736 bytes
+2021-10-25 15:38:52|   3.3|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [6]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 736 bytes, DNS lookup time: 0 ms, total transfer time: 54 ms
+2021-10-25 15:38:53|   3.5|  0.2|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761815288'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `avløp' has value `Avløp til offentlig system'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.65'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `0.4'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `0.4'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Nei'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Fylkeskommune'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255266.96 6785290.31 192.347)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761815288'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Kuppelrist, høy'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2020-04-21T18:49:41'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2016-10-31'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Hjelpesluk'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Statens vegvesen'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|(255266.96,6785290.31,192.347)(255266.96,6785290.31,191.947)
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761815289'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `avløp' has value `Avløp til offentlig system'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.4'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `4.83'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Nei'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Fylkeskommune'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255267.46 6785303.76 193.007)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761815289'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Tett lokk, støpjern'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Plast'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2020-04-21T18:49:41'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2016-10-31'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Statens vegvesen'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|(255267.46,6785303.76,193.007)(255267.46,6785303.76,188.177)
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980618'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `1.0'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `2.67'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `1.74'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Ja'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255259.07 6785292.01 192.157)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980618'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Kuppelrist, flat'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum m sandfang'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|(255259.07,6785292.01,192.157)(255259.07,6785292.01,189.48700000000002)
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980622'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `avløp' has value `Avløp til offentlig system'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Spillvannskum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.4'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `4.6'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255266.85 6785304.28 192.997)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980622'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Tett lokk, støpjern'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Plast'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|(255266.85,6785304.28,192.997)(255266.85,6785304.28,188.39700000000002)
+2021-10-25 15:38:53|   3.5|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.6|  0.1|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980623'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Vannkum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `2.0'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `4.6'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255266.33 6785305.64 193.027)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980623'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Tett lokk, støpjern'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|(255266.33,6785305.64,193.027)(255266.33,6785305.64,188.427)
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980624'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `avløp' has value `Avløp til offentlig system'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.4'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `2.97'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `2.97'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Nei'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255211.88 6785339.47 192.376)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980624'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Tett lokk, støpjern'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Plast'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|(255211.88,6785339.47,192.376)(255211.88,6785339.47,189.406)
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980625'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `avløp' has value `Avløp til offentlig system'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.65'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `0.72'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `0.72'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Nei'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255214.51 6785334.99 192.336)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980625'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Slukrist, i gateplan'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Hjelpesluk'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|(255214.51,6785334.99,192.336)(255214.51,6785334.99,191.616)
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980626'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `avløp' has value `Avløp til offentlig system'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.65'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `2.24'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `1.2'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Ja'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255218.13 6785339.6 192.356)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980626'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Kuppelrist, flat'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum m sandfang'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|(255218.13,6785339.6,192.356)(255218.13,6785339.6,190.11599999999999)
+2021-10-25 15:38:53|   3.6|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.7|  0.1|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980644'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.8'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `1.08'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `0.46'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Ja'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255226.91 6785322.07 191.976)'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980644'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Støpjernslokk m hel rist'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Standard kum m sandfang'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|(255226.91,6785322.07,191.976)(255226.91,6785322.07,190.896)
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Logger: Feature is:
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Feature Type: `Logger_LOGGED'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: windows-1252): `KlippegeometriWKT' has value `POLYGON ((255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956))'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `NVDB_ID' has value `761980645'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `Polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `_ftID' has value `83'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `bruksområde' has value `Drenering'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `diameter' has value `0.8'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `dybde' has value `0.4'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `dybdeTilUtløp' has value `0.4'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `dykker' has value `Nei'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `egengeometri' has value `true'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `eier' has value `Kommune'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `epsg' has value `EPSG:5973'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `etableringsår' has value `2016'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `fme_feature_type' has value `Kum'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: windows-1252): `fme_geometry' has value `fme_line'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: windows-1252): `fme_type' has value `fme_line'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `geometri_Punkt' has value `POINT Z(255248.62 6785297.01 191.236)'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.lokalId' has value `761980645'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.navnerom' has value `vegvesen.no.nvdb'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `identifikasjon.Identifikasjon.versjonId' has value `1'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `lokkRist_Type' has value `Kuppelrist, høy'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `materialtype' has value `Betong'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `measurement' has value `4047 m&sup2;'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.sist_modifisert' has value `2021-09-27T15:46:20'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.startdato' has value `2017-02-02'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-16LE)    : `metadata.type.navn' has value `Kum'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `polygon' has value `&polygon=255202.99398674036 6785360.229256956,255304.71983620359 6785321.379184817,255262.1210665832 6785280.313975792,255190.0439660617 6785338.589086508,255202.99398674036 6785360.229256956'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `prosesshistorie' has value `Geometri: Egengeometri fra NVDB'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `style.fill.color' has value `rgba(255, 165, 0, 0.5)'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `style.stroke.color' has value `rgb(255, 165, 0)'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(64 bit integer)      : `style.stroke.width' has value `2'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `type' has value `Hjelpesluk'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `vedlikeholdsansvarlig' has value `Kommune'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Attribute(string: UTF-8)       : `versjonsID' has value `1'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Coordinate System: `EPSG:25833'
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Geometry Type: IFMELine
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|Number of Coordinates: 2 -- Coordinate Dimension: 3
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|(255248.62,6785297.01,191.236)(255248.62,6785297.01,190.83599999999998)
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|===========================================================================
+2021-10-25 15:38:53|   3.7|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesFilter_ListExploder_2 (ElementFactory): Processed 5 elements
+2021-10-25 15:38:53|   3.9|  0.2|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [7]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'
+2021-10-25 15:38:54|   4.0|  0.1|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [7]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 28655 bytes, DNS lookup time: 0 ms, total transfer time: 267 ms
+2021-10-25 15:38:54|   4.0|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [8]: Starting HTTP download from 'nvdbapiles-v3.atlas.vegvesen.no'. Expected transfer size: 736 bytes
+2021-10-25 15:38:54|   4.0|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [8]: HTTP Download: received 736 bytes
+2021-10-25 15:38:54|   4.0|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 (HTTPFactory): [8]: HTTP transfer summary (nvdbapiles-v3.atlas.vegvesen.no): status code: 200, download size: 736 bytes, DNS lookup time: 0 ms, total transfer time: 44 ms
+2021-10-25 15:38:56|   4.5|  0.5|STATS |Creator_XML_Creator (CreationFactory): Created 1 features
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_Cloner (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator CREATED Splitter (TeeFactory): Cloned 1 input feature(s) into 3 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_CREATED_0_GJAgmIF9G6c= Feature Counter -1 31 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_CREATED_0_GJAgmIF9G6c= Brancher -1 31 (BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_CREATED_1_Exx7idfjvCA= Feature Counter -1 51 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_CREATED_1_Exx7idfjvCA= Disabled Nuker -1 51 (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_CREATED_2_goANeUpBIDA= Feature Counter -1 40 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Creator_CREATED_2_goANeUpBIDA= Disabled Nuker -1 40 (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |_CREATOR_BRANCH_TARGET (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les Input_create Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Input_create1635169123 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Input_create Feature Counter 5 8 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn Input Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Input1635169123 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Input Feature Counter 3 17 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_PASSED Feature Counter 3 19 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_FAILED Feature Counter 3 31 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|Closing the GEOJSON reader
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_FeatureReader_<OTHER> Feature Counter 3 30 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_FeatureReader_<REJECTED> Feature Counter 3 2147811332 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Reprojector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Reprojector_REPROJECTED Feature Counter 3 24 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_2_PASSED Feature Counter 3 22 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_2_FAILED Feature Counter 3 32 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryReplacer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryReplacer_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryReplacer_OUTPUT Feature Counter 3 23 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryReplacer_<REJECTED> Feature Counter 3 2147680266 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Junction_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Junction_2_Output Feature Counter 3 29 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_AttributeRemover (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_AttributeRemover_OUTPUT Feature Counter 3 21 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryExtractor (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryExtractor_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryExtractor_OUTPUT Feature Counter 3 18 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_GeometryExtractor_<REJECTED> Feature Counter 3 2147680261 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_AttributeCreator OUTPUT Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_AttributeCreator_OUTPUT_0_DeiyZGedkh0= Feature Counter 3 26 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_AttributeCreator_OUTPUT_1_ljM8GiEwgAM= Feature Counter 3 27 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_CoordinateExtractor_Output_Logger (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_CoordinateExtractor_Output LOGGED Transformer Output Nuker (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_3 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_3_PASSED Feature Counter 3 25 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Tester_3_FAILED Feature Counter 3 33 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_AttributeCreator_2_OUTPUT Feature Counter 3 28 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Junction (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Junction_Output Feature Counter 3 20 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Output1635169123 Output Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn Output Output Renamer/Nuker (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilterGeometriInn_Output Feature Counter 5 11 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter Input Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Input1635169123 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Input Feature Counter 1 21 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeCreator_2_OUTPUT Feature Counter 1 28 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|Optional `process_group' method not present; not called
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|Optional `close' method not present; not called
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_PythonCaller_OUTPUT Feature Counter 1 26 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Tester (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Tester_PASSED Feature Counter 1 30 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Tester_FAILED Feature Counter 1 38 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeCreator_3_OUTPUT Feature Counter 1 29 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeCreator_4_OUTPUT Feature Counter 1 31 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Junction_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Junction_2_Output Feature Counter 1 32 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Tester_2 (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Tester_2_PASSED Feature Counter 1 34 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Tester_2_FAILED Feature Counter 1 39 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeCreator_5_OUTPUT Feature Counter 1 33 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeCreator_6_OUTPUT Feature Counter 1 35 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Junction_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Junction_3_Output Feature Counter 1 36 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeManager_8_OUTPUT Feature Counter 1 25 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeSplitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeSplitter_OUTPUT Feature Counter 1 23 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_ListExploder_2 (ElementFactory): Split out 4 list elements from 1 input features
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_ListExploder_2_ELEMENTS Feature Counter 1 24 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_ListExploder_2_<REJECTED> Feature Counter 1 2147680263 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Junction (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Junction_Output Feature Counter 1 27 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeCreator_OUTPUT Feature Counter 1 22 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeRemover_2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_AttributeRemover_2_OUTPUT Feature Counter 1 37 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Output_href1635169123 Output Collector (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter Output_href Output Renamer/Nuker (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesFilter_Output_href Feature Counter 5 10 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter Input_href Input Collector (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Input_href1635169123 Input Splitter (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Input_href Feature Counter 0 23 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Loop1635169123 Input Splitter (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Loop Feature Counter 0 24 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3 Output Splitter (TeeFactory): Cloned 8 input feature(s) into 16 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3_Output_0_uvdnaSc6zrQ= Feature Counter 0 35 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3_Output_1_eC27TdiFpLs= Feature Counter 0 36 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_HTTPCaller_3_<REJECTED> Feature Counter 0 2147680272 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_2 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_2_OUTPUT Feature Counter 0 40 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_XMLFragmenter_2 (XFMapFactory): Total Results: 8 Mapped Feature(s), 8 Input Feature(s), and 0 Invalid input Feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_XMLFragmenter_2_FRAGMENTS Feature Counter 0 25 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_TestFilter (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_TestFilter_Condition_1 (TestFactory): Tested 8 input feature(s) -- 4 feature(s) passed and 4 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_TestFilter_<lt>UNFILTERED<gt> (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_TestFilter <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 4 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_TestFilter_Flere Feature Counter 0 26 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_3 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_3_OUTPUT Feature Counter 0 41 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|Optional `process_group' method not present; not called
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_PythonCaller_3_OUTPUT Feature Counter 0 38 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|NVDBAPI_les_NVDBAPIlesVegobjekter_XMLFragmenter (XFMapFactory): Total Results: 42 Mapped Feature(s), 8 Input Feature(s), and 4 Invalid input Feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_XMLFragmenter_FRAGMENTS Feature Counter 0 28 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|Optional `process_group' method not present; not called
+2021-10-25 15:38:56|   4.5|  0.0|INFORM|Optional `close' method not present; not called
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_NVDBTranslator_2_OUTPUT Feature Counter 0 32 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeExposer_2 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeExposer_2_OUTPUT Feature Counter 0 39 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_OUTPUT Feature Counter 0 37 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_GeometryReplacer (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_GeometryReplacer_Rejector (TestFactory): Tested 42 input feature(s) -- 0 feature(s) passed and 42 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_GeometryReplacer_OUTPUT Feature Counter 0 27 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_GeometryReplacer_<REJECTED> Feature Counter 0 2147680264 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_3DForcer (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_3DForcer_Rejector (TestFactory): Tested 42 input feature(s) -- 0 feature(s) passed and 42 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_3DForcer_OUTPUT Feature Counter 0 34 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_3DForcer_<REJECTED> Feature Counter 0 2147680271 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_CoordinateSystemSetter_3 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_CoordinateSystemSetter_3_OUTPUT Feature Counter 0 33 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Deaggregator (DeaggregateFactory): Split 42 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 29 line(s), 13 point(s), and 0 aggregate(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Deaggregator (DeaggregateFactory): 42 non-aggregate input features were routed through the factory
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Deaggregator_DEAGGREGATED Feature Counter 0 29 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_NullAttributeMapper (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_NullAttributeMapper_OUTPUT Feature Counter 0 30 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_StringConcatenator (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_StringConcatenator_OUTPUT Feature Counter 0 31 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_4 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_AttributeRemover_4_OUTPUT Feature Counter 0 42 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Loop to NVDBAPI_les_NVDBAPIlesVegobjekter_Loop1635169123 Input Splitter (BranchingFactory): Branched 4 input features -- 4 features routed to the target factory, and 0 features routed to the fallback factory.
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Output_feature1635169123 Output Collector (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter Output_feature Output Renamer/Nuker (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_NVDBAPIlesVegobjekter_Output_feature Feature Counter 5 9 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer Tester_Input Input Collector (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Tester_Input1635169123 Input Splitter (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Tester_Input Feature Counter 4 8 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Tester (TestFactory): Tested 42 input feature(s) -- 42 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Tester_PASSED Feature Counter 4 10 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Tester_FAILED Feature Counter 4 13 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Reprojector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_Reprojector_REPROJECTED Feature Counter 4 11 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_CoordinateSystemSetter_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_CoordinateSystemSetter_2_OUTPUT Feature Counter 4 12 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_AttributeRemover (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_AttributeRemover_OUTPUT Feature Counter 4 9 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_AttributeRemover_Output1635169123 Output Collector (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer AttributeRemover_Output Output Renamer/Nuker (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Transformer_AttributeRemover_Output Feature Counter 5 12 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Output_NVDBfeatures1635169123 Output Collector (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les Output_NVDBfeatures Output Renamer/Nuker (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |NVDBAPI_les_Output_NVDBfeatures Feature Counter -1 9 (TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter (TestFactory): Tested 42 input feature(s) -- 41 feature(s) passed and 1 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter_BlankFilter (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter <UNFILTERED> Transformer Output Nuker (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter TrekkerørKanal Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Kabelgrøft Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Lukket rørgrøft Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Trekkekum Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Bygning Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Tank Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Rørledning Transformer Output Nuker (TeeFactory): Cloned 18 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Kabel Transformer Output Nuker (TeeFactory): Cloned 10 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter Stikkrenne/Kulvert Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter_<BLANK> Feature Counter -1 10 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |FeatureTypeFilter_Kum Feature Counter -1 14 (TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |AttributeExposer_2 (TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |AttributeExposer_2_OUTPUT Feature Counter -1 28 (TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Tester (TestFactory): Tested 13 input feature(s) -- 10 feature(s) passed and 3 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Tester_PASSED Feature Counter -1 22 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Extruder_2 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Extruder_2_Rejector (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Extruder_2_EXTRUDED Feature Counter -1 33 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Extruder_2_<REJECTED> Feature Counter -1 2147680274 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Logger_Logger (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Logger_LOGGED Feature Counter -1 34 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2 INPUT Input Collector (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_INPUT1635169123 Input Splitter (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_INPUT Feature Counter 2 86 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Counter_Rejector (ExecuteFunctionFactory): Executed FME Functions on 10 input feature(s) -- 10 feature(s) completed and 0 feature(s) rejected
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Counter_OUTPUT Feature Counter 2 98 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_AggregateFilter (TestFactory): Tested 10 input feature(s) -- 0 feature(s) passed and 10 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_AggregateFilter_AGGREGATE Feature Counter 2 150 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_AggregateFilter_NOT_AGGREGATE Feature Counter 2 178 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Deaggregator (DeaggregateFactory): Split 0 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 0 point(s), and 0 aggregate(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Deaggregator_DEAGGREGATED Feature Counter 2 151 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Tester_7 (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Tester_7_PASSED Feature Counter 2 153 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_Tester_7_FAILED Feature Counter 2 179 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_3DForcer_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_3DForcer_2_OUTPUT Feature Counter 2 154 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_InputPassThrough (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_InstanceTest (TestFactory): Tested 10 input feature(s) -- 0 feature(s) passed and 10 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_RouterPrepper (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_Router (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_POINT Feature Counter 2 136 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_LINE Feature Counter 2 177 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_ARC Feature Counter 2 184 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_AREA Feature Counter 2 185 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_ELLIPSE Feature Counter 2 186 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_TEXT Feature Counter 2 187 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.5|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_RASTER Feature Counter 2 188 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.1|STATS |Hub3DBufferer_2_GeometryFilter_POINTCLOUD Feature Counter 2 189 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_SURFACE Feature Counter 2 190 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_SOLID Feature Counter 2 191 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_COLLECTION Feature Counter 2 192 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_NULL Feature Counter 2 193 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryFilter_INSTANCE Feature Counter 2 194 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateExtractor_3 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateExtractor_3_OUTPUT Feature Counter 2 143 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_5 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_5_OUTPUT Feature Counter 2 140 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryReplacer_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryReplacer_3_OUTPUT Feature Counter 2 141 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_8 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_8_OUTPUT Feature Counter 2 142 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_2_Input (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_2_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_2_PointCloudScaler (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_2_SCALED Feature Counter 2 137 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_2_<REJECTED> Feature Counter 2 2147680313 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_3_PointCloudOffsetter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_3_OFFSET Feature Counter 2 138 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_7 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_7_OUTPUT Feature Counter 2 139 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_4_Renamer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_4_COERCED Feature Counter 2 144 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_9 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_9_OUTPUT Feature Counter 2 145 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_ArcStrokerInput (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_ArcStroker (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_Rejector (TestFactory): Tested 10 input feature(s) -- 0 feature(s) passed and 10 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_STROKED Feature Counter 2 146 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_<REJECTED> Feature Counter 2 2147680322 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureGenerator (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureGenerator_OUTPUT Feature Counter 2 121 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Orientor (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Orientor_ORIENTED Feature Counter 2 122 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureGenerator_2 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureGenerator_2_OUTPUT Feature Counter 2 123 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Orientor_2 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Orientor_2_ORIENTED Feature Counter 2 124 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_2_ArcStrokerInput (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_2_ArcStroker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_2_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_2_STROKED Feature Counter 2 162 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_ArcStroker_2_<REJECTED> Feature Counter 2 2147680335 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_6 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_6 OUTPUT Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_6_OUTPUT_0_+IAQKzi0hRg= Feature Counter 2 159 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_6_OUTPUT_1_IN6xTP9etBo= Feature Counter 2 160 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|Optional `close' method not present; not called
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_PythonCaller_2_OUTPUT Feature Counter 2 158 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_3DAffiner (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_3DAffiner_AFFINED Feature Counter 2 164 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extruder_3_ExtrusionCreator (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extruder_3_OUTPUT Feature Counter 2 163 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_6 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_6_PASSED Feature Counter 2 165 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_5_Renamer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_5_COERCED Feature Counter 2 161 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_3_Rejector (ExecuteFunctionFactory): Executed FME Functions on 10 input feature(s) -- 10 feature(s) completed and 0 feature(s) rejected
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_3 OUTPUT Splitter (TeeFactory): Cloned 10 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_3_OUTPUT_0_g5YAvH4ooX8= Feature Counter 2 155 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_3_OUTPUT_1_bIDDkzi8ffg= Feature Counter 2 156 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_3_OUTPUT_2_xyTV4WHe1ag= Feature Counter 2 157 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extender (ExtensionFactory): Extended 10 input feature(s) and output 0 extension features and 0 stretched features
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extender_BEGINNING Feature Counter 2 125 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extender_END Feature Counter 2 171 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extender_<REJECTED> Feature Counter 2 2147811371 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_3 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_3_OUTPUT Feature Counter 2 126 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_4 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_4_OUTPUT Feature Counter 2 127 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Chopper (ChoppingFactory): Processed 30 input feature(s), of which 0 feature(s) were chopped up into 0 piece(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Chopper_CHOPPED Feature Counter 2 93 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Chopper_UNTOUCHED Feature Counter 2 166 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|Optional `process_group' method not present; not called
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|Optional `close' method not present; not called
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_PythonCaller_OUTPUT Feature Counter 2 87 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateExtractor (TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateExtractor_OUTPUT Feature Counter 2 89 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_OUTPUT Feature Counter 2 90 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_3 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_3_Rejector (TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_3_OUTPUT Feature Counter 2 134 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_3_<REJECTED> Feature Counter 2 2147680310 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_4 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_4_Rejector (TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_4_OUTPUT Feature Counter 2 135 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_4_<REJECTED> Feature Counter 2 2147680311 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryReplacer (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryReplacer_OUTPUT Feature Counter 2 91 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extruder_ExtrusionCreator (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extruder_OUTPUT Feature Counter 2 92 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_2 (TestFactory): Tested 30 input feature(s) -- 30 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_2_PASSED Feature Counter 2 108 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_2_FAILED Feature Counter 2 168 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_3DRotator (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_3DRotator_ROTATED Feature Counter 2 88 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_PointCloudOffsetter (TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_OFFSET Feature Counter 2 94 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_2 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_2_OUTPUT Feature Counter 2 103 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_2_Renamer (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_2_COERCED Feature Counter 2 118 (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter (TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter_Condition_1 (TestFactory): Tested 30 input feature(s) -- 10 feature(s) passed and 20 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter_Condition_2 (TestFactory): Tested 20 input feature(s) -- 10 feature(s) passed and 10 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter_<lt>UNFILTERED<gt> (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter_BEGIN Feature Counter 2 128 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter_END Feature Counter 2 172 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_TestFilter_<lt>UNFILTERED<gt> Feature Counter 2 181 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateCounter (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateCounter_OUTPUT Feature Counter 2 96 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Chopper_2 (ChoppingFactory): Processed 10 input feature(s), of which 10 feature(s) were chopped up into 20 piece(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Chopper_2_CHOPPED Feature Counter 2 95 (TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Chopper_2_UNTOUCHED Feature Counter 2 167 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_2_Rejector (ExecuteFunctionFactory): Executed FME Functions on 20 input feature(s) -- 20 feature(s) completed and 0 feature(s) rejected
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_2_OUTPUT Feature Counter 2 99 (TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester (TestFactory): Tested 20 input feature(s) -- 0 feature(s) passed and 20 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_PASSED Feature Counter 2 97 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateExtractor_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_CoordinateExtractor_2_OUTPUT Feature Counter 2 107 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_OUTPUT Feature Counter 2 129 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_<REJECTED> Feature Counter 2 2147680303 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_2_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_2_OUTPUT Feature Counter 2 130 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_MeasureExtractor_2_<REJECTED> Feature Counter 2 2147680304 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeCreator_2_OUTPUT Feature Counter 2 104 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryReplacer_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryReplacer_2_OUTPUT Feature Counter 2 105 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_3_OUTPUT Feature Counter 2 106 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_Input (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_PointCloudScaler (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_SCALED Feature Counter 2 100 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Scaler_<REJECTED> Feature Counter 2 2147680274 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_2_PointCloudOffsetter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Offsetter_2_OFFSET Feature Counter 2 101 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_OUTPUT Feature Counter 2 102 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_Renamer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_COERCED Feature Counter 2 117 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_4 (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_4_PASSED Feature Counter 2 131 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_4_FAILED Feature Counter 2 173 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_ClipperCloner (TeeFactory): Cloned 10 input feature(s) into 20 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_SolidClipperFilter (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_ClippeeFilter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_2_Raster (RasterClippingFactory): Group 1 / 10: No valid clipper feature(s) received
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_Vector (ClippingFactory): Processed 0 input feature(s), of which 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_2_Solid (SolidIntersectionFactory): Group 1 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_2_Solid (SolidIntersectionFactory): Group 2 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_2_Solid (SolidIntersectionFactory): Group 3 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_2_Solid (SolidIntersectionFactory): Group 4 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_2_Solid (SolidIntersectionFactory): Group 5 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Logging limit reached for the preceding message. Further instances of this message will not be logged
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_OUTSIDE Feature Counter 2 174 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2_<REJECTED> Feature Counter 2 182 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_5 (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_5_PASSED Feature Counter 2 132 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_5_FAILED Feature Counter 2 175 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_ClipperCloner (TeeFactory): Cloned 10 input feature(s) into 20 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_SolidClipperFilter (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_ClippeeFilter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_3_Raster (RasterClippingFactory): Group 1 / 10: No valid clipper feature(s) received
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_Vector (ClippingFactory): Processed 0 input feature(s), of which 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_3_Solid (SolidIntersectionFactory): Group 1 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_3_Solid (SolidIntersectionFactory): Group 2 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_3_Solid (SolidIntersectionFactory): Group 3 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_3_Solid (SolidIntersectionFactory): Group 4 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Hub3DBufferer_2_Clipper_3_Solid (SolidIntersectionFactory): Group 5 / 10: No clippees supplied, no operation will be performed
+2021-10-25 15:38:56|   4.6|  0.0|WARN  |Logging limit reached for the preceding message. Further instances of this message will not be logged
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_OUTSIDE Feature Counter 2 176 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3_<REJECTED> Feature Counter 2 183 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-LIzkqh\inspector.ffs'
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Aggregator (AggregateFactory): Combined 10 input feature(s) into 10 output feature(s), including 0 singleton(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Aggregator_AGGREGATE Feature Counter 2 109 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_3 (TestFactory): Tested 10 input feature(s) -- 10 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_3 FAILED Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_3_PASSED Feature Counter 2 119 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_3_FAILED_0_x3dXEi1N+HM= Feature Counter 2 169 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Tester_3_FAILED_1_sqixr6pzWQQ= Feature Counter 2 170 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_3_Renamer (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_GeometryCoercer_3_COERCED Feature Counter 2 120 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_6 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_6_OUTPUT Feature Counter 2 133 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_BoundsExtractor (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_BoundsExtractor_OUTPUT Feature Counter 2 110 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_2DBoxReplacer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_2DBoxReplacer_BOX Feature Counter 2 111 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_3DForcer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_3DForcer_OUTPUT Feature Counter 2 112 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extruder_2_ExtrusionCreator (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Extruder_2_OUTPUT Feature Counter 2 113 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_4_OUTPUT Feature Counter 2 115 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_ClipperCloner (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_SolidClipperFilter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_ClippeeFilter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_Vector (ClippingFactory): Processed 0 input feature(s), of which 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_INSIDE Feature Counter 2 114 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_<REJECTED> Feature Counter 2 180 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_5 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_5_OUTPUT Feature Counter 2 116 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_11 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_11_OUTPUT Feature Counter 2 152 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper__REJECTED_ (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_3__REJECTED_ (TeeFactory): Cloned 10 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Clipper_2__REJECTED_ (TeeFactory): Cloned 10 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Cloner_Cloner (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Cloner_COPY Feature Counter 2 147 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Cloner_2_Cloner (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Cloner_2_COPY Feature Counter 2 148 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_10 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_AttributeRemover_10_OUTPUT Feature Counter 2 149 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_<REJECTED>1635169123 Output Collector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_OUTPUT1635169123 Output Collector (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2 OUTPUT Output Renamer/Nuker (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2 <REJECTED> Output Renamer/Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_OUTPUT Feature Counter -1 27 (TeeFactory): Cloned 10 input feature(s) into 10 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_<REJECTED> Feature Counter -1 2147680276 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |FeatureReader_2_get-json Feature Counter -1 38 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |FeatureReader_2_<REJECTED> Feature Counter -1 2147811358 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Reprojector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Reprojector_REPROJECTED Feature Counter -1 37 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |FeatureReader_dom1_33_dom1_33 Feature Counter -1 41 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |FeatureReader_<REJECTED> Feature Counter -1 2147811352 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Stored 10 feature(s) to FME feature store file `C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-LIzkqh\inspector.ffs'
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|Saving spatial index into file 'C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-LIzkqh\inspector.fsi'
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-LIzkqh\inspector.fsi'
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |VisualizerProcessor (CreationFactory): Created 1 features
+2021-10-25 15:38:56|   4.6|  0.0|STATS |VisualizerCleaner (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |                            `Count' Domain Summary
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |0                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |1                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |2                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |3                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |4                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |5                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |6                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |7                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |8                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |9                                                                            2
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Hub3DBufferer_2_Counter_line                                                10
+2021-10-25 15:38:56|   4.6|  0.0|STATS |segment                                                                     10
+2021-10-25 15:38:56|   4.6|  0.0|STATS |==============================================================================
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Total `@Count' Invocations:                                                 40
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |                            Features Read Summary
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |==============================================================================
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Total Features Read                                                          0
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |                           Features Written Summary
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|STATS |==============================================================================
+2021-10-25 15:38:56|   4.6|  0.0|STATS |Total Features Written                                                       0
+2021-10-25 15:38:56|   4.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|Translation was SUCCESSFUL with 15 warning(s) (0 feature(s) output)
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|FME Session Duration: 10.1 seconds. (CPU: 2.8s user, 1.8s system)
+2021-10-25 15:38:56|   4.6|  0.0|INFORM|END - ProcessID: 13968, peak process memory usage: 143008 kB, current process memory usage: 129988 kB
