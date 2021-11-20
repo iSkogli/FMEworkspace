@@ -4,70 +4,70 @@
   <import namespace="http://www.interactive-instruments.de/ShapeChange/AppInfo" schemaLocation="http://shapechange.net/resources/schema/ShapeChangeAppinfo.xsd"/>
   <import namespace="http://www.opengis.net/gml/3.2" schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
   <!--XML Schema document created by ShapeChange - http://shapechange.net/-->
-  <simpleType name="AvløpType">
+  <simpleType name="AvlÃ¸pType">
     <annotation>
-      <documentation>8838: Angir hvor avløpet fra kummen ledes.</documentation>
+      <documentation>8838: Angir hvor avlÃ¸pet fra kummen ledes.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">8838</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">8838</taggedValue>
-        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Avløp</taggedValue>
+        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">AvlÃ¸p</taggedValue>
       </appinfo>
     </annotation>
-    <union memberTypes="nvdb:AvløpEnumerationType nvdb:AvløpOtherType"/>
+    <union memberTypes="nvdb:AvlÃ¸pEnumerationType nvdb:AvlÃ¸pOtherType"/>
   </simpleType>
-  <simpleType name="AvløpEnumerationType">
+  <simpleType name="AvlÃ¸pEnumerationType">
     <annotation>
-      <documentation>8838: Angir hvor avløpet fra kummen ledes.</documentation>
+      <documentation>8838: Angir hvor avlÃ¸pet fra kummen ledes.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">8838</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">8838</taggedValue>
-        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Avløp</taggedValue>
+        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">AvlÃ¸p</taggedValue>
       </appinfo>
     </annotation>
     <restriction base="string">
-      <enumeration value="Rørledning til resipient">
+      <enumeration value="RÃ¸rledning til resipient">
         <annotation>
-          <documentation>11784: Rørledning til resipient</documentation>
+          <documentation>11784: RÃ¸rledning til resipient</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11784</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Rørledning til resipient</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">RÃ¸rledning til resipient</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Avløp til offentlig system">
+      <enumeration value="AvlÃ¸p til offentlig system">
         <annotation>
-          <documentation>11785: Avløp til offentlig system</documentation>
+          <documentation>11785: AvlÃ¸p til offentlig system</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11785</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Avløp til offentlig system</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">AvlÃ¸p til offentlig system</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
     </restriction>
   </simpleType>
-  <simpleType name="AvløpOtherType">
+  <simpleType name="AvlÃ¸pOtherType">
     <restriction base="string">
       <pattern value="other: \w{2,}"/>
     </restriction>
   </simpleType>
-  <simpleType name="BruksområdeKumType">
+  <simpleType name="BruksomrÃ¥deKumType">
     <annotation>
       <documentation>1269: Angir hva vegobjektet brukes til, hvilken funksjon det har</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1269</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1269</taggedValue>
-        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Bruksområde</taggedValue>
+        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">BruksomrÃ¥de</taggedValue>
       </appinfo>
     </annotation>
-    <union memberTypes="nvdb:BruksområdeKumEnumerationType nvdb:BruksområdeKumOtherType"/>
+    <union memberTypes="nvdb:BruksomrÃ¥deKumEnumerationType nvdb:BruksomrÃ¥deKumOtherType"/>
   </simpleType>
-  <simpleType name="BruksområdeKumEnumerationType">
+  <simpleType name="BruksomrÃ¥deKumEnumerationType">
     <annotation>
       <documentation>1269: Angir hva vegobjektet brukes til, hvilken funksjon det har</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1269</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1269</taggedValue>
-        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Bruksområde</taggedValue>
+        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">BruksomrÃ¥de</taggedValue>
       </appinfo>
     </annotation>
     <restriction base="string">
@@ -89,12 +89,12 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Inntak/utløp stikkrenne">
+      <enumeration value="Inntak/utlÃ¸p stikkrenne">
         <annotation>
-          <documentation>2939: Inntak/utløp stikkrenne</documentation>
+          <documentation>2939: Inntak/utlÃ¸p stikkrenne</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2939</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Inntak/utløp stikkrenne</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Inntak/utlÃ¸p stikkrenne</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -118,7 +118,7 @@
       </enumeration>
       <enumeration value="Vannkum">
         <annotation>
-          <documentation>2943: Kum som inngår i et vannforsyningsanlegg</documentation>
+          <documentation>2943: Kum som inngÃ¥r i et vannforsyningsanlegg</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2943</taggedValue>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Vannkum</taggedValue>
@@ -136,7 +136,7 @@
       </enumeration>
       <enumeration value="Brannkum">
         <annotation>
-          <documentation>17534: Vannkum hvor det er dimensjonert for vannuttak til slokking av brann og er lagt til rette for påkopling av brannslanger.</documentation>
+          <documentation>17534: Vannkum hvor det er dimensjonert for vannuttak til slokking av brann og er lagt til rette for pÃ¥kopling av brannslanger.</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">17534</taggedValue>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Brannkum</taggedValue>
@@ -145,14 +145,14 @@
       </enumeration>
     </restriction>
   </simpleType>
-  <simpleType name="BruksområdeKumOtherType">
+  <simpleType name="BruksomrÃ¥deKumOtherType">
     <restriction base="string">
       <pattern value="other: \w{2,}"/>
     </restriction>
   </simpleType>
   <simpleType name="DykkerType">
     <annotation>
-      <documentation>4594: Angir om det er dykker i tilknytning til kummen. Dykker er en konstruksjon som skal hindre slitasje på kummen når det føres mye vann inn i kummen på et nivå høyere enn bunnen på kummen. Dykker kan også brukes for å føre inn en slange med vann eller damp f</documentation>
+      <documentation>4594: Angir om det er dykker i tilknytning til kummen. Dykker er en konstruksjon som skal hindre slitasje pÃ¥ kummen nÃ¥r det fÃ¸res mye vann inn i kummen pÃ¥ et nivÃ¥ hÃ¸yere enn bunnen pÃ¥ kummen. Dykker kan ogsÃ¥ brukes for Ã¥ fÃ¸re inn en slange med vann eller damp f</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4594</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4594</taggedValue>
@@ -163,7 +163,7 @@
   </simpleType>
   <simpleType name="DykkerEnumerationType">
     <annotation>
-      <documentation>4594: Angir om det er dykker i tilknytning til kummen. Dykker er en konstruksjon som skal hindre slitasje på kummen når det føres mye vann inn i kummen på et nivå høyere enn bunnen på kummen. Dykker kan også brukes for å føre inn en slange med vann eller damp f</documentation>
+      <documentation>4594: Angir om det er dykker i tilknytning til kummen. Dykker er en konstruksjon som skal hindre slitasje pÃ¥ kummen nÃ¥r det fÃ¸res mye vann inn i kummen pÃ¥ et nivÃ¥ hÃ¸yere enn bunnen pÃ¥ kummen. Dykker kan ogsÃ¥ brukes for Ã¥ fÃ¸re inn en slange med vann eller damp f</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4594</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4594</taggedValue>
@@ -324,24 +324,24 @@
       <pattern value="other: \w{2,}"/>
     </restriction>
   </simpleType>
-  <simpleType name="InngårIDrenssystemType">
+  <simpleType name="InngÃ¥rIDrenssystemType">
     <annotation>
-      <documentation>2122: Angir om kum inngår i drenssystemet</documentation>
+      <documentation>2122: Angir om kum inngÃ¥r i drenssystemet</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2122</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2122</taggedValue>
-        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Inngår i drenssystem</taggedValue>
+        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">InngÃ¥r i drenssystem</taggedValue>
       </appinfo>
     </annotation>
-    <union memberTypes="nvdb:InngårIDrenssystemEnumerationType nvdb:InngårIDrenssystemOtherType"/>
+    <union memberTypes="nvdb:InngÃ¥rIDrenssystemEnumerationType nvdb:InngÃ¥rIDrenssystemOtherType"/>
   </simpleType>
-  <simpleType name="InngårIDrenssystemEnumerationType">
+  <simpleType name="InngÃ¥rIDrenssystemEnumerationType">
     <annotation>
-      <documentation>2122: Angir om kum inngår i drenssystemet</documentation>
+      <documentation>2122: Angir om kum inngÃ¥r i drenssystemet</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2122</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2122</taggedValue>
-        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Inngår i drenssystem</taggedValue>
+        <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">InngÃ¥r i drenssystem</taggedValue>
       </appinfo>
     </annotation>
     <restriction base="string">
@@ -365,14 +365,14 @@
       </enumeration>
     </restriction>
   </simpleType>
-  <simpleType name="InngårIDrenssystemOtherType">
+  <simpleType name="InngÃ¥rIDrenssystemOtherType">
     <restriction base="string">
       <pattern value="other: \w{2,}"/>
     </restriction>
   </simpleType>
   <element name="Kum" substitutionGroup="nvdb:AbstraktKum" type="nvdb:KumType">
     <annotation>
-      <documentation>83: Konstruksjon som benyttes i forbindelse med kopling av rørledninger og/eller inntak av vann gjennom rist/sluk. Merknad: Kum for kopling av trekkerør og kabler er definert som egen vegobjekttype Trekkekum.</documentation>
+      <documentation>83: Konstruksjon som benyttes i forbindelse med kopling av rÃ¸rledninger og/eller inntak av vann gjennom rist/sluk. Merknad: Kum for kopling av trekkerÃ¸r og kabler er definert som egen vegobjekttype Trekkekum.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">83</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">83</taggedValue>
@@ -393,18 +393,18 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="bruksområde" type="nvdb:BruksområdeKumType">
+          <element minOccurs="0" name="bruksomrÃ¥de" type="nvdb:BruksomrÃ¥deKumType">
             <annotation>
               <documentation>1269: Angir hva vegobjektet brukes til, hvilken funksjon det har</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1269</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Bruksområde</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">BruksomrÃ¥de</taggedValue>
               </appinfo>
             </annotation>
           </element>
           <element minOccurs="0" name="materialtype" type="nvdb:MaterialtypeKumType">
             <annotation>
-              <documentation>1411: Angir primær materialtype for vegobjektet</documentation>
+              <documentation>1411: Angir primÃ¦r materialtype for vegobjektet</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1411</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Materialtype</taggedValue>
@@ -430,7 +430,7 @@
           </element>
           <element minOccurs="0" name="spesiellBelegningRundtKum" type="nvdb:SpesiellBelegningRundtKumType">
             <annotation>
-              <documentation>11417: Angir om det er spesiell belegning i et belte/firkant rundt kum for å lette vedlikehold og gjøre kum mer synlig.</documentation>
+              <documentation>11417: Angir om det er spesiell belegning i et belte/firkant rundt kum for Ã¥ lette vedlikehold og gjÃ¸re kum mer synlig.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11417</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Spesiell belegning rundt kum</taggedValue>
@@ -446,30 +446,30 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="diameter_Åpning" type="double">
+          <element minOccurs="0" name="diameter_Ã…pning" type="double">
             <annotation>
-              <documentation>2289: Angir diameter på kummens åpning</documentation>
+              <documentation>2289: Angir diameter pÃ¥ kummens Ã¥pning</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2289</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Diameter, åpning</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Diameter, Ã¥pning</taggedValue>
               </appinfo>
             </annotation>
           </element>
           <element minOccurs="0" name="dybde" type="double">
             <annotation>
-              <documentation>1586: Angir dybde målt fra topp kumlokk til innvendig bunn.</documentation>
+              <documentation>1586: Angir dybde mÃ¥lt fra topp kumlokk til innvendig bunn.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1586</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Dybde</taggedValue>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="dybdeTilUtløp" type="double">
+          <element minOccurs="0" name="dybdeTilUtlÃ¸p" type="double">
             <annotation>
-              <documentation>2079: Angir dybde fra topp kum til underkant (innvendig rør) av utløp</documentation>
+              <documentation>2079: Angir dybde fra topp kum til underkant (innvendig rÃ¸r) av utlÃ¸p</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2079</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Dybde til utløp</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Dybde til utlÃ¸p</taggedValue>
               </appinfo>
             </annotation>
           </element>
@@ -518,18 +518,18 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="avløp" type="nvdb:AvløpType">
+          <element minOccurs="0" name="avlÃ¸p" type="nvdb:AvlÃ¸pType">
             <annotation>
-              <documentation>8838: Angir hvor avløpet fra kummen ledes.</documentation>
+              <documentation>8838: Angir hvor avlÃ¸pet fra kummen ledes.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">8838</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Avløp</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">AvlÃ¸p</taggedValue>
               </appinfo>
             </annotation>
           </element>
           <element minOccurs="0" name="dykker" type="nvdb:DykkerType">
             <annotation>
-              <documentation>4594: Angir om det er dykker i tilknytning til kummen. Dykker er en konstruksjon som skal hindre slitasje på kummen når det føres mye vann inn i kummen på et nivå høyere enn bunnen på kummen. Dykker kan også brukes for å føre inn en slange med vann eller damp for tining av frosne kummer eller ledninger.</documentation>
+              <documentation>4594: Angir om det er dykker i tilknytning til kummen. Dykker er en konstruksjon som skal hindre slitasje pÃ¥ kummen nÃ¥r det fÃ¸res mye vann inn i kummen pÃ¥ et nivÃ¥ hÃ¸yere enn bunnen pÃ¥ kummen. Dykker kan ogsÃ¥ brukes for Ã¥ fÃ¸re inn en slange med vann eller damp for tining av frosne kummer eller ledninger.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4594</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Dykker</taggedValue>
@@ -545,12 +545,12 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="antallRørInn" type="integer">
+          <element minOccurs="0" name="antallRÃ¸rInn" type="integer">
             <annotation>
-              <documentation>1949: Angir hvor mange rør som kommer inn mot kummen</documentation>
+              <documentation>1949: Angir hvor mange rÃ¸r som kommer inn mot kummen</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1949</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Antall rør inn</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Antall rÃ¸r inn</taggedValue>
               </appinfo>
             </annotation>
           </element>
@@ -565,7 +565,7 @@
           </element>
           <element minOccurs="0" name="kumskjerm" type="nvdb:KumskjermType">
             <annotation>
-              <documentation>10227: Angir om det er satt opp en skjerm/skjold ved kummen inn mot skråningen for å hindre at det glir masser fra skråning ned i kummen eller blokkerer kumlokket. Det kan også angis hvilket materiale denne skjermen er av.</documentation>
+              <documentation>10227: Angir om det er satt opp en skjerm/skjold ved kummen inn mot skrÃ¥ningen for Ã¥ hindre at det glir masser fra skrÃ¥ning ned i kummen eller blokkerer kumlokket. Det kan ogsÃ¥ angis hvilket materiale denne skjermen er av.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">10227</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Kumskjerm</taggedValue>
@@ -574,34 +574,34 @@
           </element>
           <element minOccurs="0" name="oppslammingstid" type="nvdb:OppslammingstidType">
             <annotation>
-              <documentation>2121: Angir hvor lang tid det normalt tar før en kum blir full av slam.</documentation>
+              <documentation>2121: Angir hvor lang tid det normalt tar fÃ¸r en kum blir full av slam.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2121</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Oppslammingstid</taggedValue>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="inngårIDrenssystem" type="nvdb:InngårIDrenssystemType">
+          <element minOccurs="0" name="inngÃ¥rIDrenssystem" type="nvdb:InngÃ¥rIDrenssystemType">
             <annotation>
-              <documentation>2122: Angir om kum inngår i drenssystemet</documentation>
+              <documentation>2122: Angir om kum inngÃ¥r i drenssystemet</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2122</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Inngår i drenssystem</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">InngÃ¥r i drenssystem</taggedValue>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="etableringsår" type="integer">
+          <element minOccurs="0" name="etableringsÃ¥r" type="integer">
             <annotation>
-              <documentation>7065: Angir hvilket år vegobjektet ble etablert på stedet</documentation>
+              <documentation>7065: Angir hvilket Ã¥r vegobjektet ble etablert pÃ¥ stedet</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">7065</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Etableringsår</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">EtableringsÃ¥r</taggedValue>
               </appinfo>
             </annotation>
           </element>
           <element minOccurs="0" name="driftsmerking" type="string">
             <annotation>
-              <documentation>10470: Identitet/navn på forekomst, normalt synlig på stedet</documentation>
+              <documentation>10470: Identitet/navn pÃ¥ forekomst, normalt synlig pÃ¥ stedet</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">10470</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Driftsmerking</taggedValue>
@@ -610,7 +610,7 @@
           </element>
           <element minOccurs="0" name="produsent" type="string">
             <annotation>
-              <documentation>1447: Angir produktnavn/typebetegnelse, kan også ta med typenummer</documentation>
+              <documentation>1447: Angir produktnavn/typebetegnelse, kan ogsÃ¥ ta med typenummer</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1447</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Produsent</taggedValue>
@@ -626,12 +626,12 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="leverandør" type="string">
+          <element minOccurs="0" name="leverandÃ¸r" type="string">
             <annotation>
-              <documentation>1485: Angir navn på firma som har levert vegobjektet</documentation>
+              <documentation>1485: Angir navn pÃ¥ firma som har levert vegobjektet</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1485</taggedValue>
-                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Leverandør</taggedValue>
+                <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">LeverandÃ¸r</taggedValue>
               </appinfo>
             </annotation>
           </element>
@@ -646,7 +646,7 @@
           </element>
           <element minOccurs="0" name="arkivreferanse" type="string">
             <annotation>
-              <documentation>11660: Gir referanse/link til ytterligere informasjon om vegobjektet. Fortrinnsvis til vegeiers eget arkivsystem.  Kan være til mappe/sak med tilgang til ulik informasjon eller direkte til et dokument</documentation>
+              <documentation>11660: Gir referanse/link til ytterligere informasjon om vegobjektet. Fortrinnsvis til vegeiers eget arkivsystem.  Kan vÃ¦re til mappe/sak med tilgang til ulik informasjon eller direkte til et dokument</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11660</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Arkivreferanse</taggedValue>
@@ -655,7 +655,7 @@
           </element>
           <element minOccurs="0" name="prosjektreferanse" type="string">
             <annotation>
-              <documentation>11070: Referanse til prosjekt. Det benyttes samme prosjektreferanse som på tilhørende Veganlegg (VT30). Benyttes for å lettere kunne skille nye data fra eksisterende data i NVDB.</documentation>
+              <documentation>11070: Referanse til prosjekt. Det benyttes samme prosjektreferanse som pÃ¥ tilhÃ¸rende Veganlegg (VT30). Benyttes for Ã¥ lettere kunne skille nye data fra eksisterende data i NVDB.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11070</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Prosjektreferanse</taggedValue>
@@ -682,7 +682,7 @@
           </element>
           <element minOccurs="0" name="eier_Navn" type="string">
             <annotation>
-              <documentation>11198: Navn på eier av  vegobjektet. Merknad: Det skal angis organisasjonsnavn, firmanavn eller gårds- og bruksnummer, ikke personnavn.</documentation>
+              <documentation>11198: Navn pÃ¥ eier av  vegobjektet. Merknad: Det skal angis organisasjonsnavn, firmanavn eller gÃ¥rds- og bruksnummer, ikke personnavn.</documentation>
               <appinfo>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11198</taggedValue>
                 <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Eier, navn</taggedValue>
@@ -707,14 +707,14 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="volumgeometri" type="gml:gml:SolidPropertyType">
+          <element minOccurs="0" name="volumgeometri" type="gml:SolidPropertyType">
             <annotation>
               <documentation>Tillegg: Gir volumgeometri for objektet</documentation>
             </annotation>
           </element>
-          <element maxOccurs="unbounded" minOccurs="0" name="lineærPosisjon" type="nvdb:LineærPosisjonPunktPropertyType">
+          <element maxOccurs="unbounded" minOccurs="0" name="lineÃ¦rPosisjon" type="nvdb:LineÃ¦rPosisjonPunktPropertyType">
             <annotation>
-              <documentation>Angivelse av posisjon på det lineære objektet.</documentation>
+              <documentation>Angivelse av posisjon pÃ¥ det lineÃ¦re objektet.</documentation>
             </annotation>
           </element>
           <element maxOccurs="unbounded" minOccurs="0" name="assosiertKommentar" type="gml:ReferenceType">
@@ -724,10 +724,10 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="assosiertLukketRørgrøft" type="gml:ReferenceType">
+          <element minOccurs="0" name="assosiertLukketRÃ¸rgrÃ¸ft" type="gml:ReferenceType">
             <annotation>
               <appinfo>
-                <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:AbstraktLukketRørgrøft</targetElement>
+                <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:AbstraktLukketRÃ¸rgrÃ¸ft</targetElement>
               </appinfo>
             </annotation>
           </element>
@@ -766,17 +766,17 @@
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="assosiertTunnelløp" type="gml:ReferenceType">
+          <element minOccurs="0" name="assosiertTunnellÃ¸p" type="gml:ReferenceType">
             <annotation>
               <appinfo>
-                <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:AbstraktTunnelløp</targetElement>
+                <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:AbstraktTunnellÃ¸p</targetElement>
               </appinfo>
             </annotation>
           </element>
-          <element minOccurs="0" name="assosiertVannhåndteringsanlegg" type="gml:ReferenceType">
+          <element minOccurs="0" name="assosiertVannhÃ¥ndteringsanlegg" type="gml:ReferenceType">
             <annotation>
               <appinfo>
-                <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:AbstraktVannhåndteringsanlegg</targetElement>
+                <targetElement xmlns="http://www.opengis.net/gml/3.2">nvdb:AbstraktVannhÃ¥ndteringsanlegg</targetElement>
               </appinfo>
             </annotation>
           </element>
@@ -800,7 +800,7 @@
   </complexType>
   <simpleType name="KumskjermType">
     <annotation>
-      <documentation>10227: Angir om det er satt opp en skjerm/skjold ved kummen inn mot skråningen for å hindre at det glir masser fra skråning ned i kummen eller blokkerer kumlokket. Det kan også angis hvilket materiale denne skjermen er av.</documentation>
+      <documentation>10227: Angir om det er satt opp en skjerm/skjold ved kummen inn mot skrÃ¥ningen for Ã¥ hindre at det glir masser fra skrÃ¥ning ned i kummen eller blokkerer kumlokket. Det kan ogsÃ¥ angis hvilket materiale denne skjermen er av.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">10227</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">10227</taggedValue>
@@ -811,7 +811,7 @@
   </simpleType>
   <simpleType name="KumskjermEnumerationType">
     <annotation>
-      <documentation>10227: Angir om det er satt opp en skjerm/skjold ved kummen inn mot skråningen for å hindre at det glir masser fra skråning ned i kummen eller blokkerer kumlokket. Det kan også angis hvilket materiale denne skjermen er av.</documentation>
+      <documentation>10227: Angir om det er satt opp en skjerm/skjold ved kummen inn mot skrÃ¥ningen for Ã¥ hindre at det glir masser fra skrÃ¥ning ned i kummen eller blokkerer kumlokket. Det kan ogsÃ¥ angis hvilket materiale denne skjermen er av.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">10227</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">10227</taggedValue>
@@ -846,12 +846,12 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Ja, metall, stål">
+      <enumeration value="Ja, metall, stÃ¥l">
         <annotation>
-          <documentation>16707: Ja, metall, stål</documentation>
+          <documentation>16707: Ja, metall, stÃ¥l</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">16707</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Ja, metall, stål</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Ja, metall, stÃ¥l</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -899,12 +899,12 @@
       </appinfo>
     </annotation>
     <restriction base="string">
-      <enumeration value="Tett lokk, støpjern">
+      <enumeration value="Tett lokk, stÃ¸pjern">
         <annotation>
-          <documentation>4149: Tett lokk, støpjern</documentation>
+          <documentation>4149: Tett lokk, stÃ¸pjern</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4149</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Tett lokk, støpjern</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Tett lokk, stÃ¸pjern</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -935,21 +935,21 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Støpjernslokk m hel rist">
+      <enumeration value="StÃ¸pjernslokk m hel rist">
         <annotation>
-          <documentation>5542: Støpjernslokk m hel rist</documentation>
+          <documentation>5542: StÃ¸pjernslokk m hel rist</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">5542</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Støpjernslokk m hel rist</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">StÃ¸pjernslokk m hel rist</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Støpjernslokk m halv rist">
+      <enumeration value="StÃ¸pjernslokk m halv rist">
         <annotation>
-          <documentation>4156: Støpjernslokk m halv rist</documentation>
+          <documentation>4156: StÃ¸pjernslokk m halv rist</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4156</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Støpjernslokk m halv rist</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">StÃ¸pjernslokk m halv rist</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -971,12 +971,12 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Kuppelrist, høy">
+      <enumeration value="Kuppelrist, hÃ¸y">
         <annotation>
-          <documentation>4153: Kuppelrist, høy</documentation>
+          <documentation>4153: Kuppelrist, hÃ¸y</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4153</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Kuppelrist, høy</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Kuppelrist, hÃ¸y</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -991,7 +991,7 @@
       </enumeration>
       <enumeration value="Slukrist, vertikal">
         <annotation>
-          <documentation>4155: Benevnes også "kjeftsluk"</documentation>
+          <documentation>4155: Benevnes ogsÃ¥ "kjeftsluk"</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4155</taggedValue>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Slukrist, vertikal</taggedValue>
@@ -1007,21 +1007,21 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Skrårist">
+      <enumeration value="SkrÃ¥rist">
         <annotation>
-          <documentation>12867: Skrårist</documentation>
+          <documentation>12867: SkrÃ¥rist</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">12867</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Skrårist</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">SkrÃ¥rist</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Åpen">
+      <enumeration value="Ã…pen">
         <annotation>
-          <documentation>4157: Åpen</documentation>
+          <documentation>4157: Ã…pen</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">4157</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Åpen</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Ã…pen</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -1034,7 +1034,7 @@
   </simpleType>
   <simpleType name="MaterialtypeKumType">
     <annotation>
-      <documentation>1411: Angir primær materialtype for vegobjektet</documentation>
+      <documentation>1411: Angir primÃ¦r materialtype for vegobjektet</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1411</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1411</taggedValue>
@@ -1045,7 +1045,7 @@
   </simpleType>
   <simpleType name="MaterialtypeKumEnumerationType">
     <annotation>
-      <documentation>1411: Angir primær materialtype for vegobjektet</documentation>
+      <documentation>1411: Angir primÃ¦r materialtype for vegobjektet</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1411</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">1411</taggedValue>
@@ -1098,12 +1098,12 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Rustfritt stål">
+      <enumeration value="Rustfritt stÃ¥l">
         <annotation>
-          <documentation>19635: Rustfritt stål</documentation>
+          <documentation>19635: Rustfritt stÃ¥l</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">19635</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Rustfritt stål</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Rustfritt stÃ¥l</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -1162,7 +1162,7 @@
   </simpleType>
   <simpleType name="OppslammingstidType">
     <annotation>
-      <documentation>2121: Angir hvor lang tid det normalt tar før en kum blir full av slam.</documentation>
+      <documentation>2121: Angir hvor lang tid det normalt tar fÃ¸r en kum blir full av slam.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2121</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2121</taggedValue>
@@ -1173,7 +1173,7 @@
   </simpleType>
   <simpleType name="OppslammingstidEnumerationType">
     <annotation>
-      <documentation>2121: Angir hvor lang tid det normalt tar før en kum blir full av slam.</documentation>
+      <documentation>2121: Angir hvor lang tid det normalt tar fÃ¸r en kum blir full av slam.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2121</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2121</taggedValue>
@@ -1181,30 +1181,30 @@
       </appinfo>
     </annotation>
     <restriction base="string">
-      <enumeration value="&lt; 1år">
+      <enumeration value="&lt; 1Ã¥r">
         <annotation>
-          <documentation>3888: &lt; 1år</documentation>
+          <documentation>3888: &lt; 1Ã¥r</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">3888</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">&lt; 1år</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">&lt; 1Ã¥r</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="1-2 år">
+      <enumeration value="1-2 Ã¥r">
         <annotation>
-          <documentation>3872: 1-2 år</documentation>
+          <documentation>3872: 1-2 Ã¥r</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">3872</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">1-2 år</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">1-2 Ã¥r</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="&gt; 2år">
+      <enumeration value="&gt; 2Ã¥r">
         <annotation>
-          <documentation>3875: &gt; 2år</documentation>
+          <documentation>3875: &gt; 2Ã¥r</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">3875</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">&gt; 2år</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">&gt; 2Ã¥r</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -1236,30 +1236,30 @@
       </appinfo>
     </annotation>
     <restriction base="string">
-      <enumeration value="I grøft">
+      <enumeration value="I grÃ¸ft">
         <annotation>
-          <documentation>16709: Kum er plassert i åpen grøft ved veg, evt. mellom veg og g/s-veg</documentation>
+          <documentation>16709: Kum er plassert i Ã¥pen grÃ¸ft ved veg, evt. mellom veg og g/s-veg</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">16709</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">I grøft</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">I grÃ¸ft</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
       <enumeration value="I vegbane">
         <annotation>
-          <documentation>16710: Kum er plassert innenfor vegens kjøreareal (egen verdi for g/s-veg)</documentation>
+          <documentation>16710: Kum er plassert innenfor vegens kjÃ¸reareal (egen verdi for g/s-veg)</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">16710</taggedValue>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">I vegbane</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="På vegskulder">
+      <enumeration value="PÃ¥ vegskulder">
         <annotation>
           <documentation>16711: Kum er plassert utenfor vegdekkekant.</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">16711</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">På vegskulder</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">PÃ¥ vegskulder</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -1272,18 +1272,18 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="På fortau">
+      <enumeration value="PÃ¥ fortau">
         <annotation>
-          <documentation>19477: Kum er plassert på fortau</documentation>
+          <documentation>19477: Kum er plassert pÃ¥ fortau</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">19477</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">På fortau</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">PÃ¥ fortau</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
       <enumeration value="I trafikkdeler">
         <annotation>
-          <documentation>16713: Kum er plassert  på trafikkdeler</documentation>
+          <documentation>16713: Kum er plassert  pÃ¥ trafikkdeler</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">16713</taggedValue>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">I trafikkdeler</taggedValue>
@@ -1299,7 +1299,7 @@
   </simpleType>
   <simpleType name="SpesiellBelegningRundtKumType">
     <annotation>
-      <documentation>11417: Angir om det er spesiell belegning i et belte/firkant rundt kum for å lette vedlikehold og gjøre kum mer synlig.</documentation>
+      <documentation>11417: Angir om det er spesiell belegning i et belte/firkant rundt kum for Ã¥ lette vedlikehold og gjÃ¸re kum mer synlig.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11417</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11417</taggedValue>
@@ -1310,7 +1310,7 @@
   </simpleType>
   <simpleType name="SpesiellBelegningRundtKumEnumerationType">
     <annotation>
-      <documentation>11417: Angir om det er spesiell belegning i et belte/firkant rundt kum for å lette vedlikehold og gjøre kum mer synlig.</documentation>
+      <documentation>11417: Angir om det er spesiell belegning i et belte/firkant rundt kum for Ã¥ lette vedlikehold og gjÃ¸re kum mer synlig.</documentation>
       <appinfo>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11417</taggedValue>
         <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">11417</taggedValue>
@@ -1391,12 +1391,12 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Innstøpte trinn">
+      <enumeration value="InnstÃ¸pte trinn">
         <annotation>
-          <documentation>3053: Innstøpte trinn</documentation>
+          <documentation>3053: InnstÃ¸pte trinn</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">3053</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Innstøpte trinn</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">InnstÃ¸pte trinn</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -1500,12 +1500,12 @@
           </appinfo>
         </annotation>
       </enumeration>
-      <enumeration value="Spesialkum plasstøpt">
+      <enumeration value="Spesialkum plasstÃ¸pt">
         <annotation>
-          <documentation>2947: Spesialkum plasstøpt</documentation>
+          <documentation>2947: Spesialkum plasstÃ¸pt</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2947</taggedValue>
-            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Spesialkum plasstøpt</taggedValue>
+            <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Spesialkum plasstÃ¸pt</taggedValue>
           </appinfo>
         </annotation>
       </enumeration>
@@ -1520,7 +1520,7 @@
       </enumeration>
       <enumeration value="Spesialkum, infiltreringskum">
         <annotation>
-          <documentation>2949: En infiltrasjonskum samler opp overvann og lar det infiltreres i grunnen via bunnen på kummen. Vil kunne være aktuelt å bruke der det er store asfaltflater og andre overflater som hindrer at overvann kan trenge ned i grunnen.</documentation>
+          <documentation>2949: En infiltrasjonskum samler opp overvann og lar det infiltreres i grunnen via bunnen pÃ¥ kummen. Vil kunne vÃ¦re aktuelt Ã¥ bruke der det er store asfaltflater og andre overflater som hindrer at overvann kan trenge ned i grunnen.</documentation>
           <appinfo>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_ID">2949</taggedValue>
             <taggedValue xmlns="http://www.interactive-instruments.de/ShapeChange/AppInfo" tag="NVDB_navn">Spesialkum, infiltreringskum</taggedValue>
