@@ -1,0 +1,389 @@
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME 2021.1.3.0 (20211002 - Build 21631 - WIN64)
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2021_3\'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Database Edition (floating)
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Permanent License.
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Machine host name is: svv-71193
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Locale: nb_NO
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|System Encoding: windows-1252
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GitHub\iSkogli\FMEworkspace\NVDB_3D_demo/'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'Terringmodell.fmw'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2021.1.3.0'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 18363)
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Platform: WIN64
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|System Status: 191.16 GB of disk space available in the FME temporary folder (C:\Users\ingsko\AppData\Local\Temp\wbrun_1637997372544_25424\fmetmp_b)
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|System Status: 63.76 GB of physical memory available
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|System Status: 255.06 GB of virtual memory available
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|START - ProcessID: 34540, peak process memory usage: 45140 kB, current process memory usage: 45140 kB
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2021_3\fme.exe' `C:/DATA/GitHub/iSkogli/FMEworkspace/NVDB_3D_demo\wb-xlate-1638002571782_25424' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{bacdde77-81c0-4fb3-87cb-9f654ee4498b}' `LOG_TIMINGS' `Yes'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\ingsko\AppData\Roaming\Safe Software\FME\'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME2021_3\datasources;C:\Users\ingsko\Documents\FME\Formats
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\ingsko\AppData\Roaming\Safe Software\FME\Packages\21631-win64\transformers;C:\Program Files\FME2021_3\transformers;C:\Users\ingsko\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\ingsko\Documents\FME\CoordinateSystems
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\ingsko\Documents\FME\CoordinateSystemExceptions
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\ingsko\Documents\FME\CoordinateSystemGridOverrides
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\ingsko\Documents\FME\CsmapTransformationExceptions
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\ingsko\Documents\FME\TransformerCategories
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `NULL_DEST'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `NULL_DEST_DEF'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Writer type is `NULL'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GitHub\iSkogli\FMEworkspace\NVDB_3D_demo'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\ingsko\AppData\Local\Temp\wbrun_1637997372544_25424\fmetmp_b', set from environment variable `FME_TEMP'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\ingsko\AppData\Local\Temp'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2021_3\'
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 191.29 GB
+2021-11-27 09:42:54|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 143.47 GB
+2021-11-27 09:42:54|   0.1|  0.1|INFORM|Creating writer for format: NULL (Nothing)
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `NULL'
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|Loaded module 'NULL' from file 'C:\Program Files\FME2021_3\plugins/NULL.dll'
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20210302)
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|Creating reader for format: 
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding GML Reader with keyword GML_1
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-11-27 09:42:54|   0.1|  0.0|INFORM|Creating reader for format: OGC GML (Geography Markup Language)
+2021-11-27 09:42:54|   0.3|  0.2|INFORM|Trying to find a DYNAMIC plugin for reader named `GML'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'GML' from file 'C:\Program Files\FME2021_3\plugins/GML.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'GML' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|<GML_1 Reader> - Opening the GML_1 Reader reader with source dataset 'C:\_temp\NVDB\FKB-Veg_utsnitt_Hamar.gml'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2021_3\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2021_3\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2021_3\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2021_3\xml\urimap\gml_sosi.xml' is being used to map from URI to URI
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME2021_3\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME2021_3\plugins/LogCount_func.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2021_3\plugins/Geometry_func.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME2021_3\plugins/QueryFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'InspectorFactory' from file 'C:\Program Files\FME2021_3\plugins/InspectorFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'SurfaceModelFactory' from file 'C:\Program Files\FME2021_3\plugins/SurfaceModelFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'C:\Program Files\FME2021_3\plugins/GQueryFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|... Last line repeated 4 times ...
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'RasterClippingFactory' from file 'C:\Program Files\FME2021_3\plugins/RasterClippingFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'SolidIntersectionFactory' from file 'C:\Program Files\FME2021_3\plugins/SolidIntersectionFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|... Last line repeated 2 times ...
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'TriangulationFactory' from file 'C:\Program Files\FME2021_3\plugins/TriangulationFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'TriangulationFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Loaded module 'AttributeFilterFactory' from file 'C:\Program Files\FME2021_3\plugins/AttributeFilterFactory.dll'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|FME API version of module 'InspectorFactory' matches current internal version (3.8 20210302)
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|Parsing XML document 'C:\_temp\NVDB\FKB-Veg_utsnitt_Hamar.gml'
+2021-11-27 09:42:55|   0.3|  0.0|INFORM|URI 'http://skjema.geonorge.no/SOSI/produktspesifikasjon/FKB-Veg/4.61/FKB-Veg461.xsd' mapped to 'http://skjema.geonorge.no/SOSI/produktspesifikasjon/FKB-Veg/4.61/FKB-Veg461.xsd'
+2021-11-27 09:42:55|   0.5|  0.2|INFORM|'http://skjema.geonorge.no/SOSI/produktspesifikasjon/FKB-Veg/4.61/FKB-Veg461.xsd' mapped to 'C:\Users\ingsko\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1637997533777_4756.xml'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Parsing schema document 'C:\Users\ingsko\AppData\Local\Temp\FME_XSD_CACHE\fmexsd_1637997533777_4756.xml' ...
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from 'http://www.w3.org/1999/xlink.xsd' to 'xlink.xsd'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../../../../xlink/1.0.0/xlinks.xsd' to 'xlink.xsd'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using XSD semantics configuration file 'file:///C:/Program Files/FME2021_3/xml/gml_v3.2/gml_config.xml'.
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'gts' for uri 'http://www.isotc211.org/2005/gts'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'xlink' for uri 'http://www.w3.org/1999/xlink'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'gmd' for uri 'http://www.isotc211.org/2005/gmd'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'sc' for uri 'http://www.interactive-instruments.de/ShapeChange/AppInfo'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'gml' for uri 'http://www.opengis.net/gml/3.2'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'gco' for uri 'http://www.isotc211.org/2005/gco'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'gsr' for uri 'http://www.isotc211.org/2005/gsr'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'app' for uri 'http://skjema.geonorge.no/SOSI/produktspesifikasjon/FKB-Veg/4.61'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'xsi' for uri 'http://www.w3.org/2001/XMLSchema-instance'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Using prefix 'gss' for uri 'http://www.isotc211.org/2005/gss'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Map Embedded Object as: 'ATTRIBUTES'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Map Predefined Properties: 'NO'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Map All Substitutable Properties: 'YES'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Map Complex Properties as: 'NESTED_ATTRIBUTES'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Add XML Namespace Prefix to: 'UNSET'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Limit Number of Lists in Nested Attributes: 'UNSET'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|<GML_1 Reader> - Add Geometries as XML Fragments: 'NO'
+2021-11-27 09:42:55|   0.5|  0.0|INFORM|Pre-processing xfMap 'C:\Users\ingsko\AppData\Local\Temp\wbrun_1637997372544_25424\fmetmp_b\XFMAP_AUTOGEN1638002575310_34540.xml' with macro stylesheet 'C:\Program Files\FME2021_3\xfmap\xfmap_macro.xslt' into 'C:\Users\ingsko\AppData\Local\Temp\GML_XFMAP_CACHE\CACHED_AUTOGEN_1638002575317_34540.xfmap'
+2021-11-27 09:42:55|   0.7|  0.2|INFORM|The XML Reader is using xfMap 'C:\Users\ingsko\AppData\Local\Temp\GML_XFMAP_CACHE\CACHED_AUTOGEN_1638002575317_34540.xfmap'
+2021-11-27 09:42:55|   0.8|  0.1|WARN  |xfmap - Can't determine axis order from coordinate system or settings. Using assumed axis order of 1,2.
+2021-11-27 09:42:55|   1.0|  0.2|INFORM|Predefined coordinate system `ETRS89.UTM-32N' (Transverse Mercator (ETRS89-TM32)) matches dataset coordinate system 
+2021-11-27 09:42:55|   1.0|  0.0|INFORM|The EPSG number of the FME coordinate system 'ETRS89.UTM-32N' is '5972'
+2021-11-27 09:42:55|   1.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader GML_1[GML] set to `EPSG:5972' as read from input data
+2021-11-27 09:42:55|   1.0|  0.0|INFORM|Coordinate System `EPSG:5972' parameters: CS_NAME=`ETRS89.UTM-32N' DESC_NM=`Transverse Mercator (ETRS89-TM32)' DT_NAME=`ETRS89/01' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`66.45' MAX_LNG=`12.866666666666667' MIN_LAT=`57.11666666666667' MIN_LNG=`4.183333333333334' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25832 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001'
+2021-11-27 09:42:55|   1.1|  0.1|INFORM|The workspace does not contain user Python. FME will attempt to use a Python 3.8+ interpreter
+2021-11-27 09:42:55|   1.1|  0.0|INFORM|Using Python interpreter from `C:\Program Files\FME2021_3\fmepython38\python38.dll' with PYTHONHOME `C:\Program Files\FME2021_3\fmepython38'
+2021-11-27 09:42:55|   1.1|  0.0|INFORM|Python version 3.8 loaded successfully
+2021-11-27 09:42:56|   1.3|  0.2|INFORM|Potentially retrieving dataset 'https://www.norgeskart.no/ws/get-json.py?hash=f2kaLn0BWQwIHzRH92XD&save=true' for reader R_1
+2021-11-27 09:42:56|   1.3|  0.0|INFORM|Retrieved file C:\Users\ingsko\AppData\Local\Temp\wbrun_1637997372544_25424\fmetmp_b\TempFS_1638002575909_34540\get-json.py for reader R_1
+2021-11-27 09:42:56|   1.3|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2021-11-27 09:42:56|   1.4|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2021-11-27 09:42:56|   1.4|  0.0|INFORM|Loaded module 'GEOJSON' from file 'C:\Program Files\FME2021_3\plugins/JSON.dll'
+2021-11-27 09:42:56|   1.4|  0.0|INFORM|FME API version of module 'GEOJSON' matches current internal version (3.8 20210302)
+2021-11-27 09:42:56|   1.4|  0.0|INFORM|Performing query against GEOJSON dataset `https://www.norgeskart.no/ws/get-json.py?hash=f2kaLn0BWQwIHzRH92XD&save=true'
+2021-11-27 09:42:56|   1.4|  0.0|INFORM|Potentially retrieving dataset 'https://www.norgeskart.no/ws/get-json.py?hash=f2kaLn0BWQwIHzRH92XD&save=true' for reader R_2
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|Retrieved file C:\Users\ingsko\AppData\Local\Temp\wbrun_1637997372544_25424\fmetmp_b\TempFS_1638002575909_34540\get-json.py for reader R_2
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|FME API version of module 'GEOJSON' matches current internal version (3.8 20210302)
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|Opening the GEOJSON reader with source dataset 'C:\Users\ingsko\AppData\Local\Temp\wbrun_1637997372544_25424\fmetmp_b\TempFS_1638002575909_34540\get-json.py'
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_2[GEOJSON] set to `LL84' as read from input data
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|Coordinate System `LL84' parameters: CS_NAME=`LL84' DESC_NM=`WGS84 datum, Latitude-Longitude; Degrees' DT_NAME=`WGS84' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`182' MIN_LAT=`-90' MIN_LNG=`-182' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2021-11-27 09:42:57|   1.4|  0.0|WARN  |Reprojector: Ignoring source coordinate system 'EPSG:4326' in favor of feature coordinate system. This warning will not be repeated
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'LL84' -> 'EPSG:25832', and is not guaranteed to remain the same in future releases of FME
+2021-11-27 09:42:57|   1.4|  0.0|INFORM|Reprojector: Using transformation `ETRS89/01_to_WGS84,Inverse(Geocentric)' when reprojecting from LL84 to EPSG:25832
+2021-11-27 09:42:57|   1.4|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-QKwbPN\inspector.ffs'
+2021-11-27 09:42:57|   1.5|  0.1|INFORM|MULTI_READER(MULTI_READER): Done reading 143 features from 1 readers
+2021-11-27 09:42:57|   1.5|  0.0|INFORM|Emptying factory pipeline
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 143 input feature(s), wrote 143 output feature(s): 134 matched merge filters, 134 were routed to output, 9 could not be routed.
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Unexpected Input Remover Nuker (TeeFactory): Cloned 9 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |AnnetVegarealAvgrensning_GML_1 Splitter (TeeFactory): Cloned 49 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Fortauskant_GML_1 Splitter (TeeFactory): Cloned 39 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |GangfeltAvgrensning_GML_1 Splitter (TeeFactory): Cloned 8 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |GangSykkelveg_GML_1 Splitter (TeeFactory): Cloned 2 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |GangSykkelvegkant_GML_1 Splitter (TeeFactory): Cloned 2 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Gangvegkant_GML_1 Splitter (TeeFactory): Cloned 4 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Kjørebanekant_GML_1 Splitter (TeeFactory): Cloned 7 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Parkeringsområde_GML_1 Splitter (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Skiltportal_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Trafikksignalpunkt_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Trafikkøy_GML_1 Splitter (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Trafikkøykant_GML_1 Splitter (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Traktorveg_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Traktorvegkant_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Veg_GML_1 Splitter (TeeFactory): Cloned 4 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Vegdekkekant_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Vegdekkekant_GML_1_0_kjwRk3SZU1s= Feature Counter -1 29 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Vegdekkekant_GML_1_1_wvgr83cN3wE= Feature Counter -1 38 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |VeggrøftÅpen_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |VeggrøftÅpen_GML_1_0_Rd0tkLVOK1M= Feature Counter -1 27 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |VeggrøftÅpen_GML_1_1_WxvaH2S2iKY= Feature Counter -1 36 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |VegkantAnnetVegareal_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |VegkantAvkjørsel_GML_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Vegskulderkant_GML_1 Splitter (TeeFactory): Cloned 16 input feature(s) into 32 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Vegskulderkant_GML_1_0_SNSljFtnPaQ= Feature Counter -1 26 (TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Vegskulderkant_GML_1_1_jLxIJHE31+o= Feature Counter -1 34 (TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Creator_XML_Creator (CreationFactory): Created 1 features
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Creator_Cloner (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Creator_CREATED Feature Counter -1 49 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Creator_CREATED Brancher -1 49 (BranchingFactory): Branched 1 input feature -- 1 feature routed to the target factory, and 0 features routed to the fallback factory.
+2021-11-27 09:42:57|   1.5|  0.0|STATS |_CREATOR_BRANCH_TARGET (TeeFactory): Cloned 33 input feature(s) into 33 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|INFORM|Closing the GEOJSON reader
+2021-11-27 09:42:57|   1.5|  0.0|STATS |FeatureReader_<OTHER> Feature Counter -1 47 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |FeatureReader_<REJECTED> Feature Counter -1 2147811369 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |FeatureReader_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Reprojector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|STATS |Reprojector_REPROJECTED Feature Counter -1 50 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.5|  0.0|INFORM|SurfaceModeller (SurfaceModelFactory): Starting to build surface model with 461 input coordinates
+2021-11-27 09:42:57|   1.5|  0.0|INFORM|SurfaceModeller (SurfaceModelFactory): Finished building surface model with extents (613300.97,6741879.16,133.29) (613611.58,6741998.09,134.56)
+2021-11-27 09:42:57|   1.5|  0.0|INFORM|SurfaceModeller (SurfaceModelFactory): TIN surfaces now being output
+2021-11-27 09:42:57|   1.8|  0.3|STATS |SurfaceModeller (SurfaceModelFactory): Processed 16 features and 0 breaklines. 16 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceModeller_TINSurface Feature Counter -1 55 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceModeller_<REJECTED> Feature Counter -1 2148204569 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceModeller_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper Clipper Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper Clippee Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Clippee1638002571 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Clippee Feature Counter 0 63 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Clipper1638002571 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Clipper Feature Counter 0 64 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_2_InputPassThrough (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_2_RouterPrepper (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_2_Router (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_2_AREA Feature Counter 0 100 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_2_<UNFILTERED> Feature Counter 0 134 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_Output Feature Counter 0 76 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeCreator_4_OUTPUT Feature Counter 0 101 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_InputPassThrough (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_RouterPrepper (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_Router (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_SURFACE Feature Counter 0 81 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryFilter_<UNFILTERED> Feature Counter 0 129 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AggregateFilter (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AggregateFilter_AGGREGATE Feature Counter 0 102 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AggregateFilter_NOT_AGGREGATE Feature Counter 0 135 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Deaggregator_2 (DeaggregateFactory): Split 0 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 0 point(s), and 0 aggregate(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Deaggregator_2_DEAGGREGATED Feature Counter 0 67 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AggregateFilter_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AggregateFilter_2_AGGREGATE Feature Counter 0 114 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AggregateFilter_2_NOT_AGGREGATE Feature Counter 0 139 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_11 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_11_Output Feature Counter 0 103 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_12 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_12 Output Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_12_Output_0_UWay7ybPrnc= Feature Counter 0 109 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Junction_12_Output_1_0xr4rODmwX4= Feature Counter 0 110 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryCoercer_2_COERCED Feature Counter 0 65 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryCoercer_2_UNTOUCHED Feature Counter 0 120 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeCreator_5_OUTPUT Feature Counter 0 104 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Deaggregator (DeaggregateFactory): Split 1 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 0 line(s), 0 point(s), and 192 aggregate(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_Deaggregator_DEAGGREGATED Feature Counter 0 66 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryExtractor (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryExtractor_Rejector (TestFactory): Tested 192 input feature(s) -- 0 feature(s) passed and 192 feature(s) failed
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryExtractor_OUTPUT Feature Counter 0 70 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_GeometryExtractor_<REJECTED> Feature Counter 0 123 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_SharedItemIDExtractor_OUTPUT Feature Counter 0 69 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_SharedItemIDExtractor_UNMATCHED Feature Counter 0 122 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_SharedItemIDExtractor_<REJECTED> Feature Counter 0 144 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AppearanceExtractor_2_APPEARANCE Feature Counter 0 68 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AppearanceExtractor_2_UNMATCHED Feature Counter 0 121 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AppearanceExtractor_2_UNUSED Feature Counter 0 143 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeExposer (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeExposer_OUTPUT Feature Counter 0 92 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeRenamer_OUTPUT Feature Counter 0 91 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AppearanceExtractor_3_APPEARANCE Feature Counter 0 93 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AppearanceExtractor_3_UNMATCHED Feature Counter 0 133 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AppearanceExtractor_3_UNUSED Feature Counter 0 148 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeExposer_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.8|  0.0|STATS |SurfaceClipper_AttributeExposer_2_OUTPUT Feature Counter 0 95 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.1|STATS |SurfaceClipper_AttributeRenamer_2_OUTPUT Feature Counter 0 94 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Junction_7 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Junction_7_Output Feature Counter 0 83 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Junction_8 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Junction_8_Output Feature Counter 0 84 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_GeometryReplacer (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_GeometryReplacer_Rejector (TestFactory): Tested 192 input feature(s) -- 0 feature(s) passed and 192 feature(s) failed
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_GeometryReplacer_OUTPUT Feature Counter 0 71 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_GeometryReplacer_<REJECTED> Feature Counter 0 124 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_GeometryCoercer_COERCED Feature Counter 0 73 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_GeometryCoercer_UNTOUCHED Feature Counter 0 126 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_OrientationExtractor (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_OrientationExtractor_OUTPUT Feature Counter 0 115 (TeeFactory): Cloned 192 input feature(s) into 192 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Clipper_ClipperCloner (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Clipper_SolidClipperFilter (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2021-11-27 09:42:57|   1.9|  0.0|STATS |SurfaceClipper_Clipper_ClippeeFilter (TestFactory): Tested 192 input feature(s) -- 0 feature(s) passed and 192 feature(s) failed
+2021-11-27 09:42:57|   1.9|  0.0|INFORM|SurfaceClipper_Clipper_Vector (ClippingFactory): Clipping with an automatic tolerance of 1.3484019185192097e-8
+2021-11-27 09:42:57|   2.0|  0.1|STATS |SurfaceClipper_Clipper_Vector (ClippingFactory): Group '' had 192 input feature(s): 33 feature(s) were clipped, 131 feature(s) were totally inside and 28 feature(s) were totally outside
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Clipper_Vector (ClippingFactory): Processed 192 input feature(s), of which 33 feature(s) were clipped, 131 feature(s) were totally inside and 28 feature(s) were totally outside
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Clipper_Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Clipper_INSIDE Feature Counter 0 72 (TeeFactory): Cloned 164 input feature(s) into 164 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Clipper_OUTSIDE Feature Counter 0 125 (TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Clipper_<REJECTED> Feature Counter 0 145 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeCreator_2_OUTPUT Feature Counter 0 86 (TeeFactory): Cloned 164 input feature(s) into 164 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeCreator_3_OUTPUT Feature Counter 0 87 (TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter (TeeFactory): Cloned 225 input feature(s) into 225 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter_Condition_1 (TestFactory): Tested 225 input feature(s) -- 225 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter_Condition_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter_left_hand_rule Feature Counter 0 117 (TeeFactory): Cloned 225 input feature(s) into 225 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_TestFilter_right_hand_rule Feature Counter 0 141 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor (TeeFactory): Cloned 225 input feature(s) into 225 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_Rejector (TestFactory): Tested 225 input feature(s) -- 0 feature(s) passed and 225 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_ORIENTED Feature Counter 0 116 (TeeFactory): Cloned 225 input feature(s) into 225 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_<REJECTED> Feature Counter 0 140 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_2_Rejector (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_2_ORIENTED Feature Counter 0 118 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Orientor_2_<REJECTED> Feature Counter 0 142 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Deaggregator_3 (DeaggregateFactory): Split 225 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 229 polygon(s), 0 line(s), 0 point(s), and 0 aggregate(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Deaggregator_3 (DeaggregateFactory): 221 non-aggregate input features were routed through the factory
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Deaggregator_3_DEAGGREGATED Feature Counter 0 112 (TeeFactory): Cloned 229 input feature(s) into 229 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_FaceReplacer_FaceCreator (TeeFactory): Cloned 229 input feature(s) into 229 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_FaceReplacer_Rejector (TestFactory): Tested 229 input feature(s) -- 0 feature(s) passed and 229 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_FaceReplacer_OUTPUT Feature Counter 0 74 (TeeFactory): Cloned 229 input feature(s) into 229 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_FaceReplacer_<REJECTED> Feature Counter 0 127 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester (TestFactory): Tested 229 input feature(s) -- 0 feature(s) passed and 229 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_PASSED Feature Counter 0 85 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_FAILED Feature Counter 0 130 (TeeFactory): Cloned 229 input feature(s) into 229 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeRenamer_3_OUTPUT Feature Counter 0 96 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_SharedItemIDSetter_2_OUTPUT Feature Counter 0 75 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_SharedItemIDSetter_2_UNMATCHED Feature Counter 0 128 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_SharedItemIDSetter_2_<REJECTED> Feature Counter 0 146 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_2 (TestFactory): Tested 229 input feature(s) -- 0 feature(s) passed and 229 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_2_PASSED Feature Counter 0 89 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_2_FAILED Feature Counter 0 132 (TeeFactory): Cloned 229 input feature(s) into 229 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeRenamer_4_OUTPUT Feature Counter 0 97 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_SharedItemIDSetter_3_OUTPUT Feature Counter 0 88 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_SharedItemIDSetter_3_UNMATCHED Feature Counter 0 131 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_SharedItemIDSetter_3_<REJECTED> Feature Counter 0 147 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Aggregator (AggregateFactory): Combined 229 input feature(s) into 2 output feature(s), including 0 singleton(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Aggregator_AGGREGATE Feature Counter 0 105 (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_GeometryRefiner (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_GeometryRefiner_OUTPUT Feature Counter 0 107 (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_GeometryCoercer_3_COERCED Feature Counter 0 113 (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_GeometryCoercer_3_UNTOUCHED Feature Counter 0 138 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_3 (TestFactory): Tested 2 input feature(s) -- 2 feature(s) passed and 0 feature(s) failed
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_3_PASSED Feature Counter 0 106 (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Tester_3_FAILED Feature Counter 0 136 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Triangulator_TIN_SURFACE Feature Counter 0 137 (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Triangulator_<REJECTED> Feature Counter 0 2147811378 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Triangulator_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter <lt>EMPTY<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter <lt>MISSING<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter <lt>NULL<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter_Inside Feature Counter 0 149 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeFilter_Outside Feature Counter 0 150 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Aggregator_2 (AggregateFactory): Combined 1 input feature(s) into 1 output feature(s), including 0 singleton(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Aggregator_2_AGGREGATE Feature Counter 0 108 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Aggregator_3 (AggregateFactory): Combined 1 input feature(s) into 1 output feature(s), including 0 singleton(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Aggregator_3_AGGREGATE Feature Counter 0 111 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_AttributeCreator_OUTPUT Feature Counter 0 82 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_9 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_9_Output Feature Counter 0 98 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_6 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_6_Output Feature Counter 0 80 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_4_Output Feature Counter 0 79 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_3_Output Feature Counter 0 78 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_13 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_13_Output Feature Counter 0 119 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_2_Output Feature Counter 0 77 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_5 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_5_Output Feature Counter 0 90 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_10 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Junction_10_Output Feature Counter 0 99 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Inside1638002571 Output Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Outside1638002571 Output Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_<Rejected>1638002571 Output Collector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper Inside Output Renamer/Nuker (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper Outside Output Renamer/Nuker (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper <Rejected> Output Renamer/Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_Inside Feature Counter -1 57 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_<Rejected> Feature Counter -1 2147745846 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |SurfaceClipper_<Rejected> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Stored 17 feature(s) to FME feature store file `C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-QKwbPN\inspector.ffs'
+2021-11-27 09:42:57|   2.0|  0.0|INFORM|Saving spatial index into file 'C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-QKwbPN\inspector.fsi'
+2021-11-27 09:42:57|   2.0|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\ingsko\AppData\Local\Temp\wb-inspectors-QKwbPN\inspector.fsi'
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |VisualizerProcessor (CreationFactory): Created 1 features
+2021-11-27 09:42:57|   2.0|  0.0|STATS |VisualizerCleaner (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2021-11-27 09:42:57|   2.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-11-27 09:42:57|   2.0|  0.0|STATS |                            Features Read Summary
+2021-11-27 09:42:57|   2.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-11-27 09:42:57|   2.0|  0.0|STATS |AnnetVegarealAvgrensning                                                    49
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Fortauskant                                                                 39
+2021-11-27 09:42:57|   2.0|  0.0|STATS |GangSykkelveg                                                                2
+2021-11-27 09:42:57|   2.0|  0.0|STATS |GangSykkelvegkant                                                            2
+2021-11-27 09:42:57|   2.0|  0.0|STATS |GangfeltAvgrensning                                                          8
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Gangvegkant                                                                  4
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Kjørebanekant                                                                7
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Parkeringsområde                                                             1
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Trafikkøy                                                                    1
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Trafikkøykant                                                                1
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Veg                                                                          4
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Vegbom                                                                       1
+2021-11-27 09:42:57|   2.0|  0.0|STATS |VegkantFiktiv                                                                8
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Vegskulderkant                                                              16
+2021-11-27 09:42:57|   2.0|  0.0|STATS |==============================================================================
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Total Features Read                                                        143
+2021-11-27 09:42:57|   2.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-11-27 09:42:57|   2.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-11-27 09:42:57|   2.0|  0.0|STATS |                           Features Written Summary
+2021-11-27 09:42:57|   2.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-11-27 09:42:57|   2.0|  0.0|STATS |==============================================================================
+2021-11-27 09:42:57|   2.0|  0.0|STATS |Total Features Written                                                       0
+2021-11-27 09:42:57|   2.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-11-27 09:42:57|   2.0|  0.0|INFORM|Translation was SUCCESSFUL with 2 warning(s) (0 feature(s) output)
+2021-11-27 09:42:57|   2.0|  0.0|INFORM|FME Session Duration: 3.2 seconds. (CPU: 1.3s user, 0.7s system)
+2021-11-27 09:42:57|   2.0|  0.0|INFORM|END - ProcessID: 34540, peak process memory usage: 163252 kB, current process memory usage: 152076 kB

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:li="http://www.opengis.net/infragml/core/1.0" xmlns:lilf="http://www.opengis.net/infragml/landfeature/1.0" xmlns:tin="http://www.opengis.net/gml/3.3/tin" xmlns:vu053="http://test.com/terreng" elementFormDefault="qualified" targetNamespace="http://test.com/terreng" version="1.0">
+  <import namespace="http://www.opengis.net/gml/3.2" schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
+  <import namespace="http://www.opengis.net/gml/3.3/tin" schemaLocation="http://schemas.opengis.net/gml/3.3/tin.xsd"/>
+  <import namespace="http://www.opengis.net/infragml/core/1.0" schemaLocation="http://schemas.opengis.net/infragml/part0/1.0/core.xsd"/>
+  <import namespace="http://www.opengis.net/infragml/landfeature/1.0" schemaLocation="http://schemas.opengis.net/infragml/part1/1.0/land-feature.xsd"/>
+  <!--XML Schema document created by ShapeChange - http://shapechange.net/-->
+  <element name="Surface" substitutionGroup="gml:AbstractGML" type="vu053:SurfaceType"/>
+  <complexType name="SurfaceType">
+    <complexContent>
+      <extension base="gml:AbstractGMLType">
+        <sequence>
+          <element name="description"/>
+          <element name="geometry">
+            <complexType>
+              <complexContent>
+                <extension base="gml:AbstractFeatureMemberType">
+                  <sequence minOccurs="0">
+                    <element ref="gml:TriangulatedSurface"/>
+                  </sequence>
+                  <attributeGroup ref="gml:AssociationAttributeGroup"/>
+                </extension>
+              </complexContent>
+            </complexType>
+          </element>
+          <element name="name"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  <complexType name="SurfacePropertyType">
+    <sequence minOccurs="0">
+      <element ref="vu053:Surface"/>
+    </sequence>
+    <attributeGroup ref="gml:AssociationAttributeGroup"/>
+    <attributeGroup ref="gml:OwnershipAttributeGroup"/>
+  </complexType>
+  <element name="Terrengmodell" substitutionGroup="lilf:LandSurface" type="vu053:TerrengmodellType">
+    <annotation>
+      <documentation>Skille på krav på produksjon og produktet.
+
+SOSI vegkropp</documentation>
+    </annotation>
+  </element>
+  <complexType name="TerrengmodellType">
+    <complexContent>
+      <extension base="lilf:LandSurfaceType">
+        <sequence>
+          <element name="Fag" type="string"/>
+          <element name="Beskrivelse" type="string"/>
+          <element name="Nøyaktighet" type="string"/>
+          <element name="LevertAv"/>
+          <element name="Kilde" type="string"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  <complexType name="TerrengmodellPropertyType">
+    <sequence minOccurs="0">
+      <element ref="vu053:Terrengmodell"/>
+    </sequence>
+    <attributeGroup ref="gml:AssociationAttributeGroup"/>
+    <attributeGroup ref="gml:OwnershipAttributeGroup"/>
+  </complexType>
+</schema>
